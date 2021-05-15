@@ -1,0 +1,47 @@
+ TOUCHPOINT CLOSED DOWN: 21/03 - 09:01          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 21/03 - 09:34            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (09:34)                   
+C11 ALLERGEN DISCLAIMER                         
+ TOUCHPOINT CLOSED DOWN: 21/03 - 09:35          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 21/03 - 09:37            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (09:37)                   
+SALE ID: 1000076                                
+H. ALTUN          REG               ID#1        
+SUNDAY 21 MARCH 2021        09:37 000076        
+1     PAYZONE                      £0.52       
+1     FRUIT                        £0.23       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.75§d      
+      CASH                         £0.75       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.75   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000076                     
+SALE ID: 1000077                                
+H. ALTUN          REG               ID#1        
+SUNDAY 21 MARCH 2021        09:38 000077        
+1     ALCOHOL                      £0.45       
+1     ALCOHOL                    £877.45       
+                                                
+                        2 No                    
+      TOTAL               §D£877.90§d        
+      CASH                       £877.90       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)       £877.90   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000077                     

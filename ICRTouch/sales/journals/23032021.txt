@@ -1,0 +1,127 @@
+MODE CHANGE, PROGRAM 3 MODE (09:21)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Mix & Match                                    
+MODE CHANGE, PROGRAM 3 MODE (09:22)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Mix & Match 2                                  
+MODE CHANGE, REG MODE (09:23)                   
+SALE ID: 1000087                                
+H. ALTUN          REG               ID#1        
+TUESDAY 23 MARCH 2021       09:23 000087        
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      LUCOZADE SPORT 2 FOR £2     £-2.00      
+      CANCEL                      £-0.38       
+SALE FINALISED, ID: 1000087                     
+SALE ID: 1000088                                
+H. ALTUN          REG               ID#1        
+TUESDAY 23 MARCH 2021       09:24 000088        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000088                     
+MODE CHANGE, PROGRAM 3 MODE (09:24)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Mix & Match 2                                  
+MODE CHANGE, REG MODE (09:25)                   
+SALE ID: 1000089                                
+H. ALTUN          REG               ID#1        
+TUESDAY 23 MARCH 2021       09:25 000089        
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      LUCOZADE SPORT 2 FOR £2     £-0.18      
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      LUCOZADE SPORT 2 FOR £2     £-0.18      
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      LUCOZADE SPORT 2 FOR £2     £-0.18      
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      Error Corr                                
+-1    LUCOZADE SPORT MANGO & P    £-1.19       
+      CANCEL                      £-6.60       
+SALE FINALISED, ID: 1000089                     
+MODE CHANGE, PROGRAM 3 MODE (09:28)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Mix & Match 2                                  
+MODE CHANGE, REG MODE (09:29)                   
+SALE ID: 1000090                                
+H. ALTUN          REG               ID#1        
+TUESDAY 23 MARCH 2021       09:29 000090        
+1     Lucozade raspberry           £1.19       
+1     Lucozade raspberry           £1.19       
+      LUCOZADE SPORT 2 FOR £2     £-0.18      
+1     Lucozade raspberry           £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      LUCOZADE SPORT 2 FOR £2     £-0.18      
+                                                
+                        4 No                    
+      TOTAL                   §D£4.40§d      
+      CASH                         £4.40       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £4.76   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000090                     
+SALE ID: 1000091                                
+H. ALTUN          REG               ID#1        
+TUESDAY 23 MARCH 2021       10:29 000091        
+1     HEINZ HOOPS PM               £0.89       
+1     HEINZ HOOPS PM               £0.89       
+1     HEINZ HOOPS PM               £0.89       
+1     HEINZ HOOPS PM               £0.89       
+1     HEINZ HOOPS PM               £0.89       
+                                                
+                        5 No                    
+      TOTAL                   §D£4.45§d      
+      CASH                         £4.45       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £4.45   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000091                     
+MODE CHANGE, PROGRAM 3 MODE (10:37)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 65000 TO: 0                             
+ Level Names                                    
+ Mix & Match 2                                  
+MODE CHANGE, REG MODE (10:38)                   
+SALE ID: 1000092                                
+H. ALTUN          REG               ID#1        
+TUESDAY 23 MARCH 2021       10:38 000092        
+1     LUCOZADE SPORT CARIBBEAN     £1.19       
+1     LUCOZADE SPORT CARIBBEAN     £1.19       
+      LUCOZADE SPORT 2 FOR £2     £-0.18      
+      CANCEL                      £-2.20       
+SALE FINALISED, ID: 1000092                     
+ TOUCHPOINT CLOSED DOWN: 23/03 - 10:39          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 23/03 - 10:39            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (10:39)                   
+SALE ID: 1000093                                
+H. ALTUN          REG               ID#1        
+TUESDAY 23 MARCH 2021       13:43 000093        
+1     SWEETS & CHOC                £0.50       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.50§d      
+      CASH                         £0.50       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.50   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000093                     

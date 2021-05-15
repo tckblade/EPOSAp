@@ -1,0 +1,157 @@
+MODE CHANGE, REG MODE (15:55)                   
+ TOUCHPOINT CLOSED DOWN: 03/04 - 15:56          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 03/04 - 15:56            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:56)                   
+ICRTouch v70.13 START: 03/04 - 18:15            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ TOUCHPOINT CLOSED DOWN: 03/04 - 18:15          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 03/04 - 18:19            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (18:19)                   
+ TOUCHPOINT CLOSED DOWN: 03/04 - 18:19          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 03/04 - 18:19            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (18:20)                   
+SALE ID: 1000109                                
+H. ALTUN          REG               ID#1        
+SATURDAY 3 APRIL 2021       18:20 000109        
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+                                                
+                        2 No                    
+      TOTAL                   §D£1.38§d      
+      CASH                         £1.38       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.38   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000109                     
+ TOUCHPOINT CLOSED DOWN: 03/04 - 18:20          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 03/04 - 18:20            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (18:20)                   
+SALE ID: 1000110                                
+H. ALTUN          REG               ID#1        
+SATURDAY 3 APRIL 2021       18:21 000110        
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+                                                
+                        3 No                    
+      TOTAL                   §D£2.07§d      
+      CASH                         £2.07       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.07   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000110                     
+SALE ID: 1000111                                
+H. ALTUN          REG               ID#1        
+SATURDAY 3 APRIL 2021       18:21 000111        
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+                                                
+                        5 No                    
+      TOTAL                   §D£3.45§d      
+      CREDIT CARD                  £3.45       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.45   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000111                     
+SALE ID: 1000112                                
+H. ALTUN          REG               ID#1        
+SATURDAY 3 APRIL 2021       18:25 000112        
+1     GREEN GIANT 198G PM80P       £0.80       
+1     GREEN GIANT 198G PM80P       £0.80       
+      Error Corr                                
+-1    GREEN GIANT 198G PM80P      £-0.80       
+      Error Corr                                
+-1    GREEN GIANT 198G PM80P      £-0.80       
+                                                
+                        0 No                    
+      TOTAL                   §D£0.00§d      
+      CASH                         £0.00       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000112                     
+SALE ID: 1000113                                
+H. ALTUN          REG               ID#1        
+SATURDAY 3 APRIL 2021       18:27 000113        
+1     CIRIO CANNELLINI BEANS 4     £1.29       
+      Error Corr                                
+-1    CIRIO CANNELLINI BEANS 4    £-1.29       
+1     CIRIO CANNELLINI BEANS 4     £1.29       
+1     CIRIO CANNELLINI BEANS 4     £1.29       
+      Error Corr                                
+-1    CIRIO CANNELLINI BEANS 4    £-1.29       
+      Error Corr                                
+-1    CIRIO CANNELLINI BEANS 4    £-1.29       
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+      SUBTOTAL                     £1.38       
+                                                
+                        2 No                    
+      TOTAL                   §D£1.38§d      
+      CASH                         £1.38       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.38   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000113                     
+SALE ID: 1000114                                
+H. ALTUN          REG               ID#1        
+SATURDAY 3 APRIL 2021       18:59 000114        
+      PAID OUT                     £1.28       
+       MEDIA, CASH in Drawer       £1.28       
+      REASON 1                                  
+SALE FINALISED, ID: 1000114                     
+MODE CHANGE, REG MODE (18:59)                   
+SALE ID: 1000115                                
+H. ALTUN          REG               ID#1        
+SATURDAY 3 APRIL 2021       18:59 000115        
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+                                                
+                        4 No                    
+      TOTAL                   §D£2.76§d      
+      CREDIT CARD                  £2.76       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.76   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000115                     
+ TOUCHPOINT CLOSED DOWN: 03/04 - 23:45          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

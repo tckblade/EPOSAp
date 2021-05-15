@@ -1,0 +1,60 @@
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:11)             
+CHANGED FILES:                                  
+ Level Names                                    
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 2 MODE (15:11)             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 5 MODE (15:11)             
+ PLU: 1000 => 30000 OK                          
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 1000 TO: 0                              
+ FILE 399                                       
+MODE CHANGE, REG MODE (15:11)                   
+MODE CHANGE, REG MODE (15:11)                   
+ICRTouch v70.13 START: 11/03 - 15:21            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ICRTouch v70.13 START: 11/03 - 15:21            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:21)                   
+MODE CHANGE, PROGRAM 3 MODE (15:21)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, PROGRAM 3 MODE (15:22)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (15:22)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 5 MODE (15:22)             
+ PLU: 30000 => 65000 OK                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 30000 TO: 0                             
+ FILE 399                                       
+ICRTouch v70.13 START: 11/03 - 15:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, MANAGER MODE (15:23)               
+ICRTouch v70.13 START: 11/03 - 15:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:23)             
+CHANGED FILES:                                  
+ Level Names                                    
+ICRTouch v70.13 START: 11/03 - 15:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:24)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:24)             
+CHANGED FILES:                                  
+ Level Names                                    

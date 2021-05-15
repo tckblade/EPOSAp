@@ -1,0 +1,172 @@
+ TOUCHPOINT CLOSED DOWN: 22/03 - 12:27          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 22/03 - 12:27            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (12:27)                   
+SALE ID: 1000078                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        12:28 000078        
+1     Polish bread 400g            £1.09       
+1     Polish bread 400g            £1.09       
+1     Polish bread 800g            £1.39       
+1     Polish bread 800g            £1.39       
+                                                
+                        4 No                    
+      TOTAL                   §D£4.96§d      
+      CASH                         £4.96       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.78   £0.00      
+T3 Normal Rate (20.00%)    £1.82   £0.36      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000078                     
+SALE ID: 1000079                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        12:31 000079        
+1     Polish bread 800g            £1.39       
+1     Polish bread 800g            £1.39       
+                                                
+                        2 No                    
+      TOTAL                   §D£2.78§d      
+      CASH                         £2.78       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.78   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000079                     
+SALE ID: 1000080                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        13:18 000080        
+1     PAYZONE                      £0.01       
+1     TOBACCO                      £0.04       
+1     HOUSEHOLD                    £0.04       
+      SUBTOTAL                     £0.09       
+                                                
+                        3 No                    
+      TOTAL                   §D£0.09§d      
+      CASH                         £0.09       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.09   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000080                     
+SALE ID: 1000081                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        13:18 000081        
+1     SWEETS & CHOC                £0.04       
+1     SWEETS & CHOC                £0.04       
+1     SWEETS & CHOC                £0.05       
+1     HOUSEHOLD                    £0.04       
+1     HOUSEHOLD                    £0.08       
+1     PAYZONE                      £0.08       
+1     ALCOHOL                      £0.05       
+1     SOFT DRINKS                  £0.04       
+1     FRUIT                        £0.04       
+1     VEG                          £0.09       
+1     VEG                          £0.05       
+1     PAYZONE                      £0.02       
+1     PAYZONE                      £0.05       
+1     LOTTO                        £0.04       
+1     GROCERY                      £0.04       
+1     HOUSEHOLD                    £0.04       
+1     ALCOHOL                      £0.08       
+                                                
+                        17 No                   
+      TOTAL                   §D£0.87§d      
+      CASH                         £0.87       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.87   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000081                     
+SALE ID: 1000082                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        13:20 000082        
+1     TOBACCO                      £0.05       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.05§d      
+      CASH                         £0.05       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.05   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000082                     
+MODE CHANGE, PROGRAM 1 MODE (13:20)             
+MODE CHANGE, PROGRAM 3 MODE (13:21)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Mix & Match                                    
+ Mix & Match 2                                  
+MODE CHANGE, REG MODE (13:25)                   
+SALE ID: 1000083                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        13:26 000083        
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      Error Corr                                
+-1    LUCOZADE SPORT MANGO & P    £-1.19       
+      Error Corr                                
+-1    LUCOZADE SPORT MANGO & P    £-1.19       
+      Error Corr                                
+-1    LUCOZADE SPORT MANGO & P    £-1.19       
+      CANCEL                       £0.00       
+SALE FINALISED, ID: 1000083                     
+MODE CHANGE, PROGRAM 3 MODE (13:26)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 65000 TO: 0                             
+ Level Names                                    
+ Mix & Match 2                                  
+MODE CHANGE, REG MODE (13:27)                   
+SALE ID: 1000084                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        13:27 000084        
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      Error Corr                                
+-1    LUCOZADE SPORT MANGO & P    £-1.19       
+      CANCEL                      £-3.57       
+SALE FINALISED, ID: 1000084                     
+SALE ID: 1000085                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        13:27 000085        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000085                     
+MODE CHANGE, PROGRAM 3 MODE (13:27)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Mix & Match                                    
+ Mix & Match 2                                  
+MODE CHANGE, REG MODE (13:31)                   
+SALE ID: 1000086                                
+H. ALTUN          REG               ID#1        
+MONDAY 22 MARCH 2021        13:31 000086        
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+1     LUCOZADE SPORT MANGO & P     £1.19       
+      CANCEL                      £-8.33       
+SALE FINALISED, ID: 1000086                     

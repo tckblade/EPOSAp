@@ -1,0 +1,497 @@
+ICRTouch v70.13 START: 07/03 - 15:34            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:34)                   
+ICRTouch v70.13 START: 07/03 - 15:37            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+Script Key created at key 196                   
+Script Key created at key 195                   
+Script Key created at key 50                    
+Script Key created at key 194                   
+Script Key created at key 193                   
+MODE CHANGE, REG MODE (15:37)                   
+ICRTouch v70.13 START: 07/03 - 15:38            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:38)                   
+ICRTouch v70.13 START: 07/03 - 15:38            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:38)                   
+ICRTouch v70.13 START: 07/03 - 15:40            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:40)                   
+ICRTouch v70.13 START: 07/03 - 15:42            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:42)                   
+ICRTouch v70.13 START: 07/03 - 15:48            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:49)                   
+MODE CHANGE, REG MODE (15:50)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:50)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, MANAGER MODE (15:50)               
+Keyboard level 4 copied to 11to30               
+MODE CHANGE, PROGRAM 4 MODE (15:51)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Keyboard 2                                     
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, PROGRAM 2 MODE (15:51)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, PROGRAM 3 MODE (15:52)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:52)                   
+ICRTouch v70.13 START: 07/03 - 15:54            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:54)                   
+ICRTouch v70.13 START: 07/03 - 15:56            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:57)                   
+ICRTouch v70.13 START: 07/03 - 15:59            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:59)                   
+ TOUCHPOINT CLOSED DOWN: 07/03 - 18:53          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 07/03 - 18:54            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (18:54)                   
+ TOUCHPOINT CLOSED DOWN: 07/03 - 18:54          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 07/03 - 18:54            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, MANAGER MODE (18:55)               
+ TOUCHPOINT CLOSED DOWN: 07/03 - 18:55          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 07/03 - 18:56            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, PROGRAM 4 MODE (18:56)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (18:57)                   
+ TOUCHPOINT CLOSED DOWN: 07/03 - 18:59          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 07/03 - 19:01            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (19:01)                   
+ICRTouch v70.13 START: 07/03 - 19:06            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+C2 ALLERGEN DISCLAIMER                          
+MODE CHANGE, PROGRAM 6 MODE (19:06)             
+MODE CHANGE, MANAGER MODE (19:07)               
+ TOUCHPOINT CLOSED DOWN: 07/03 - 19:08          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 07/03 - 19:08            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:15)                   
+ICRTouch v70.13 START: 07/03 - 21:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:16)                   
+ICRTouch v70.13 START: 07/03 - 21:17            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (21:17)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 21:18            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:18)                   
+ICRTouch v70.13 START: 07/03 - 21:18            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:18)                   
+ICRTouch v70.13 START: 07/03 - 21:19            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (21:19)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 21:20            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:20)                   
+ICRTouch v70.13 START: 07/03 - 21:21            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (21:21)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 21:21            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+Script Key created at key 196                   
+Script Key created at key 195                   
+Script Key created at key 50                    
+Script Key created at key 194                   
+Script Key created at key 193                   
+MODE CHANGE, REG MODE (21:21)                   
+ICRTouch v70.13 START: 07/03 - 21:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+Script Key created at key 196                   
+Script Key created at key 195                   
+Script Key created at key 50                    
+Script Key created at key 194                   
+Script Key created at key 193                   
+MODE CHANGE, REG MODE (21:22)                   
+ICRTouch v70.13 START: 07/03 - 21:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+Script Key created at key 196                   
+Script Key created at key 195                   
+Script Key created at key 50                    
+Script Key created at key 194                   
+Script Key created at key 193                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (21:23)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Transaction Key                                
+ Status Key                                     
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 21:25            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:25)                   
+ICRTouch v70.13 START: 07/03 - 21:27            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:27)                   
+ICRTouch v70.13 START: 07/03 - 21:45            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (21:45)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:03            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (22:03)                   
+ICRTouch v70.13 START: 07/03 - 22:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:04)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (22:04)                   
+ICRTouch v70.13 START: 07/03 - 22:05            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:05)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+ICRTouch v70.13 START: 07/03 - 22:07            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:07)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:11            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:11)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:12            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (22:12)                   
+ICRTouch v70.13 START: 07/03 - 22:12            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:12)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (22:13)                   
+ICRTouch v70.13 START: 07/03 - 22:15            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (22:16)                   
+ICRTouch v70.13 START: 07/03 - 22:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:16)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:20            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (22:20)                   
+ICRTouch v70.13 START: 07/03 - 22:20            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:20)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:22)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:24            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (22:24)                   
+ICRTouch v70.13 START: 07/03 - 22:24            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:24)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:25)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (22:25)                   
+ICRTouch v70.13 START: 07/03 - 22:25            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:25)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, MANAGER MODE (22:26)               
+ICRTouch v70.13 START: 07/03 - 22:26            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:26)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:28)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, MANAGER MODE (22:28)               
+Keyboard level 4 copied to 11to20               
+ICRTouch v70.13 START: 07/03 - 22:28            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (22:28)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:29)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:40            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (22:40)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:40)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 22:44            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:44)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 15:01            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:01)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:01)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:01)                   
+ICRTouch v70.13 START: 07/03 - 15:03            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:03)                   
+ICRTouch v70.13 START: 07/03 - 15:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, REG MODE (15:04)                   
+ICRTouch v70.13 START: 07/03 - 15:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:04)                   
+ICRTouch v70.13 START: 07/03 - 15:06            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:06)                   
+ICRTouch v70.13 START: 07/03 - 15:07            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:07)                   
+ICRTouch v70.13 START: 07/03 - 15:07            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:07)                   
+ICRTouch v70.13 START: 07/03 - 15:08            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:08)                   
+ICRTouch v70.13 START: 07/03 - 15:09            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:09)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:10)             
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Finalise Key                                   
+ Status Key                                     
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:28)                   
+ICRTouch v70.13 START: 07/03 - 15:30            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:30)                   
+ICRTouch v70.13 START: 07/03 - 15:30            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:30)                   
+ICRTouch v70.13 START: 07/03 - 15:32            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:32)                   
+ICRTouch v70.13 START: 07/03 - 15:33            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:33)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 15:34            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:34)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 07/03 - 15:35            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:35)                   
+MODE CHANGE, REG MODE (15:35)                   
+ICRTouch v70.13 START: 07/03 - 15:37            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:37)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:44)                   
+MODE CHANGE, PROGRAM 4 MODE (15:44)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:46)                   
+ICRTouch v70.13 START: 07/03 - 17:42            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (17:42)                   

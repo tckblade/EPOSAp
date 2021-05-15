@@ -1,0 +1,49 @@
+ICRTouch v70.13 START: 08/04 - 01:01            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (01:01)                   
+SALE ID: 1000119                                
+H. ALTUN          REG               ID#1        
+THURSDAY 8 APRIL 2021       01:03 000119        
+1     TOBACCO                      £1.25       
+1     GROCERY                      £4.56       
+      CANCEL                      £-5.81       
+SALE FINALISED, ID: 1000119                     
+MODE CHANGE, PROGRAM 4 MODE (01:04)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (01:09)                   
+SALE ID: 1000120                                
+H. ALTUN          REG               ID#1        
+THURSDAY 8 APRIL 2021       01:10 000120        
+       1 x £0.52                               
+1     MISC                         £0.52       
+       2 x £0.58                               
+2     ALCOHOL                      £1.16       
+      SUBTOTAL                     £1.68       
+                                                
+                        3 No                    
+      TOTAL                   §D£1.68§d      
+      CASH                        £20.00       
+      §DCHANGE§d                £18.32       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.68   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000120                     
+MODE CHANGE, REG MODE (01:10)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (01:11)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (01:13)                   
+ TOUCHPOINT CLOSED DOWN: 08/04 - 01:14          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

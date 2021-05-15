@@ -1,0 +1,46 @@
+ICRTouch v70.13 START: 12/05 - 00:06            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:06)                   
+ TOUCHPOINT CLOSED DOWN: 12/05 - 00:06          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 12/05 - 00:07            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:07)                   
+ TOUCHPOINT CLOSED DOWN: 12/05 - 00:11          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 12/05 - 00:12            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:12)                   
+ TOUCHPOINT CLOSED DOWN: 12/05 - 00:13          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 12/05 - 00:15            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ TOUCHPOINT CLOSED DOWN: 12/05 - 00:15          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 12/05 - 00:15            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:15)                   
+SALE ID: 1000223                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 12 MAY 2021       00:15 000223        
+1     GROCERY                      £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+MODE CHANGE, REG MODE (00:16)                   
+SALE ID: 1000223                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 12 MAY 2021       00:15 000223        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+      Error Corr                                
+-1    GROCERY                     £-0.01       
+      CANCEL                       £0.00       
+SALE FINALISED, ID: 1000223                     
+ TOUCHPOINT CLOSED DOWN: 12/05 - 00:16          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

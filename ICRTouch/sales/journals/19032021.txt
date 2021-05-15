@@ -1,0 +1,286 @@
+ICRTouch v70.13 START: 19/03 - 09:54            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (11:29)                   
+SALE ID: 1000043                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        11:29 000043        
+1     HOUSEHOLD                    £0.01       
+1     HOUSEHOLD                    £0.04       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.05§d      
+      £1                           £1.00      
+      §DCHANGE§d                 £0.95       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000043                     
+SALE ID: 1000044                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        11:29 000044        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000044                     
+SALE ID: 1000045                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        11:29 000045        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000045                     
+SALE ID: 1000046                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        11:29 000046        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000046                     
+SALE ID: 1000047                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        11:32 000047        
+1     AQUA PURA 500ML              £0.50       
+1     AQUA PURA 500ML              £0.50       
+1     AQUA PURA 500ML              £0.50       
+1     AQUA PURA 500ML              £0.50       
+                                                
+                        4 No                    
+      TOTAL                   §D£2.00§d      
+      CASH                         £2.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000047                     
+MODE CHANGE, MANAGER MODE (11:33)               
+MODE CHANGE, PROGRAM 1 MODE (11:33)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 65000 TO: 0                             
+MODE CHANGE, PROGRAM 6 MODE (11:33)             
+ TOUCHPOINT CLOSED DOWN: 19/03 - 11:33          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 11:34            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (14:13)             
+CHANGED FILES:                                  
+ Level Names                                    
+ IO Parameter                                   
+ Device Connection                              
+ TOUCHPOINT CLOSED DOWN: 19/03 - 14:15          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 14:15            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:15)                   
+SALE ID: 1000048                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:22 000048        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000048                     
+ TOUCHPOINT CLOSED DOWN: 19/03 - 14:24          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 14:25            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:25)                   
+SALE ID: 1000049                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:25 000049        
+1     HOUSEHOLD                    £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000049                     
+SALE ID: 1000050                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:28 000050        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000050                     
+SALE ID: 1000051                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:28 000051        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000051                     
+SALE ID: 1000052                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:28 000052        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000052                     
+SALE ID: 1000053                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:29 000053        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CREDIT CARD                  £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000053                     
+MODE CHANGE, PROGRAM 3 MODE (14:29)             
+CHANGED FILES:                                  
+ Level Names                                    
+ IO Parameter                                   
+ TOUCHPOINT CLOSED DOWN: 19/03 - 14:30          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 14:30            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:30)                   
+SALE ID: 1000054                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:30 000054        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000054                     
+ICRTouch v70.13 START: 19/03 - 14:34            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ TOUCHPOINT CLOSED DOWN: 19/03 - 14:35          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 14:38            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:38)                   
+SALE ID: 1000055                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:38 000055        
+1     TOBACCO                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000055                     
+ TOUCHPOINT CLOSED DOWN: 19/03 - 14:40          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 14:40            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ TOUCHPOINT CLOSED DOWN: 19/03 - 14:40          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 14:41            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:41)                   
+SALE ID: 1000056                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:42 000056        
+1     TOBACCO                      £0.02       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.02§d      
+      CASH                         £0.02       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.02   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000056                     
+ TOUCHPOINT CLOSED DOWN: 19/03 - 14:45          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 14:46            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (14:46)             
+CHANGED FILES:                                  
+ Level Names                                    
+ICRTouch v70.13 START: 19/03 - 14:51            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:52)                   
+SALE ID: 1000057                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        14:52 000057        
+1     TOBACCO                      £0.02       
+      SUBTOTAL                     £0.02       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.02§d      
+      CASH                         £0.02       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.02   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000057                     
+ TOUCHPOINT CLOSED DOWN: 19/03 - 15:10          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 17:06            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (17:06)                   
+SALE ID: 1000058                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        17:06 000058        
+1     HOUSEHOLD                    £0.08       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.08§d      
+      CASH                         £0.08       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.08   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000058                     
+ TOUCHPOINT CLOSED DOWN: 19/03 - 17:09          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 19/03 - 17:35            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (17:45)                   
+SALE ID: 1000059                                
+H. ALTUN          REG               ID#1        
+FRIDAY 19 MARCH 2021        17:45 000059        
+1     HOUSEHOLD                    £0.02       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.02§d      
+      CASH                         £0.02       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.02   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000059                     

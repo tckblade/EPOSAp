@@ -1,0 +1,193 @@
+ICRTouch v70.13 START: 22/04 - 03:39            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:39)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (03:39)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (03:39)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:41)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (03:41)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Finalise Key                                   
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:44)                   
+SALE ID: 1000134                                
+H. ALTUN          REG               ID#1        
+THURSDAY 22 APRIL 2021      03:45 000134        
+1     LOTTO / BUS                  £1.25       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.25§d      
+      VOUCHER                      £0.05       
+      SHORT                        £1.20       
+      CASH                         £1.20       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000134                     
+MODE CHANGE, PROGRAM 3 MODE (03:45)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, PROGRAM 3 MODE (03:45)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (03:46)                   
+MODE CHANGE, REG MODE (03:46)                   
+MODE CHANGE, PROGRAM 3 MODE (03:46)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Finalise Key                                   
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:48)                   
+SALE ID: 1000135                                
+H. ALTUN          REG               ID#1        
+THURSDAY 22 APRIL 2021      03:48 000135        
+1     LOTTO / BUS                  £1.25       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.25§d      
+      LOTTO PAY                    £5.00       
+      §DCHANGE§d                 £3.75       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000135                     
+SALE ID: 1000136                                
+H. ALTUN          REG               ID#1        
+THURSDAY 22 APRIL 2021      03:49 000136        
+125   LOTTO / BUS                  £1.25       
+      CANCEL                      £-1.25       
+SALE FINALISED, ID: 1000136                     
+SALE ID: 1000137                                
+H. ALTUN          REG               ID#1        
+THURSDAY 22 APRIL 2021      03:50 000137        
+1     LOTTO / BUS                 £10.00       
+                                                
+                        1 No                    
+      TOTAL                 §D£10.00§d       
+      LOTTO PAY                    £5.00       
+      SHORT                        £5.00       
+      CASH                         £5.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £10.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000137                     
+SALE ID: 1000138                                
+H. ALTUN          REG               ID#1        
+THURSDAY 22 APRIL 2021      03:51 000138        
+1     LOTTO / BUS                 £50.00       
+      CANCEL                     £-50.00       
+SALE FINALISED, ID: 1000138                     
+SALE ID: 1000139                                
+H. ALTUN          REG               ID#1        
+THURSDAY 22 APRIL 2021      03:52 000139        
+1     GROCERY                   £1000.00       
+                                                
+                        1 No                    
+      TOTAL             §D£1000.00§d         
+      LOTTO PAY                    £5.00       
+      SHORT                      £995.00       
+      LOTTO PAY                   £10.00       
+      SHORT                      £985.00       
+      £20                         £20.00      
+      SHORT                      £965.00       
+      £20                         £20.00      
+      SHORT                      £945.00       
+      £20                         £20.00      
+      SHORT                      £925.00       
+      £50                         £50.00      
+      SHORT                      £875.00       
+      £50                         £50.00      
+      SHORT                      £825.00       
+      £50                         £50.00      
+      SHORT                      £775.00       
+      £50                         £50.00      
+      SHORT                      £725.00       
+      £50                         £50.00      
+      SHORT                      £675.00       
+      £50                         £50.00      
+      SHORT                      £625.00       
+      £50                         £50.00      
+      SHORT                      £575.00       
+      CREDIT CARD                £575.00       
+      CASHBACK                    £52.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)      £1000.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000139                     
+MODE CHANGE, REG MODE (03:55)                   
+SALE ID: 1000140                                
+H. ALTUN          REG               ID#1        
+THURSDAY 22 APRIL 2021      03:55 000140        
+1     MISC                        £45.00       
+                                                
+                        1 No                    
+      TOTAL                 §D£45.00§d       
+      LOTTO PAY                    £5.00       
+      SHORT                       £40.00       
+      LOTTO PAY                   £10.00       
+      SHORT                       £30.00       
+      LOTTO PAY                    £5.00       
+      SHORT                       £25.00       
+      LOTTO PAY                   £20.00       
+      SHORT                        £5.00       
+      £5                           £5.00      
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £45.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000140                     
+MODE CHANGE, REG MODE (03:56)                   
+SALE ID: 1000141                                
+H. ALTUN          REG               ID#1        
+THURSDAY 22 APRIL 2021      04:00 000141        
+1     ALCOHOL                     £25.00       
+                                                
+                        1 No                    
+      TOTAL                 §D£25.00§d       
+      LOTTO PAY                    £5.00       
+      SHORT                       £20.00       
+      CASH                        £20.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £25.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000141                     
+ TOUCHPOINT CLOSED DOWN: 22/04 - 04:05          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

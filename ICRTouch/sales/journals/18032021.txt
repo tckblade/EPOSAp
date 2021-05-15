@@ -1,0 +1,330 @@
+ICRTouch v70.13 START: 18/03 - 11:18            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (11:18)                   
+SALE ID: 1000025                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:18 000025        
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+      Suspend                      £5.07       
+          * CLERK INTERRUPTED *                 
+SALE ID: 1000026                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:18 000026        
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+                                                
+                        4 No                    
+      TOTAL                   §D£6.76§d      
+      CASH                         £6.76       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £6.76   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000026                     
+SALE ID: 1000025                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:18 000025        
+ FROM: ID#1 CT: 1                               
+ PBAL: £5.07 No: 3                             
+      Resume                       £5.07       
+                                                
+                        3 No                    
+      TOTAL                   §D£5.07§d      
+      CASH                         £5.07       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £5.07   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000025                     
+SALE ID: 1000027                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:19 000027        
+1     SWEETS & CHOC                £1.25       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.25§d      
+      CASH                         £1.25       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000027                     
+SALE ID: 1000028                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:20 000028        
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+                                                
+                        16 No                   
+      TOTAL                 §D£27.04§d       
+      CASH                        £27.04       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £27.04   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000028                     
+ TOUCHPOINT CLOSED DOWN: 18/03 - 11:20          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/03 - 11:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (11:23)                   
+SALE ID: 1000029                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:23 000029        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000029                     
+ TOUCHPOINT CLOSED DOWN: 18/03 - 11:26          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/03 - 11:33            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (11:33)                   
+ TOUCHPOINT CLOSED DOWN: 18/03 - 11:36          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/03 - 11:37            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (11:39)                   
+SALE ID: 1000030                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:39 000030        
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+                                                
+                        17 No                   
+      TOTAL                 §D£28.73§d       
+      CASH                        £28.73       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £28.73   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000030                     
+SALE ID: 1000031                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:40 000031        
+1     Gordons gin tonic            £1.69       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.69§d      
+      CASH                         £1.69       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.69   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000031                     
+SALE ID: 1000032                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:59 000032        
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+                                                
+                        2 No                    
+      TOTAL                   §D£3.38§d      
+      CASH                         £3.38       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.38   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000032                     
+SALE ID: 1000033                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      11:59 000033        
+1     Gordons gin tonic            £1.69       
+1     VEG                          £1.25       
+1     VEG                          £1.25       
+1     BODRUM WHOLE BLACK OLIVE     £0.89       
+ICRTouch v70.13 START: 18/03 - 15:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:23)                   
+SALE ID: 1000033                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      15:24 000033        
+1     HOUSEHOLD                    £0.01       
+1     HOUSEHOLD                    £0.07       
+1     SWEETS & CHOC                £0.04       
+                                                
+                        3 No                    
+      TOTAL                   §D£0.12§d      
+      CASH                         £0.12       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.12   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000033                     
+ TOUCHPOINT CLOSED DOWN: 18/03 - 15:24          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/03 - 16:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:04)                   
+SALE ID: 1000034                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:06 000034        
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+                                                
+                        11 No                   
+      TOTAL                 §D£18.59§d       
+      CASH                        £18.59       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £18.59   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000034                     
+SALE ID: 1000035                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:07 000035        
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+                                                
+                        2 No                    
+      TOTAL                   §D£3.38§d      
+      CASH                         £3.38       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.38   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000035                     
+SALE ID: 1000036                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:07 000036        
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+1     Gordons gin tonic            £1.69       
+                                                
+                        3 No                    
+      TOTAL                   §D£5.07§d      
+      CASH                         £5.07       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £5.07   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000036                     
+SALE ID: 1000037                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:07 000037        
+      PAID OUT                     £5.00       
+       MEDIA, CASH in Drawer       £5.00       
+SALE FINALISED, ID: 1000037                     
+SALE ID: 1000038                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:08 000038        
+5     SWEETS & CHOC                £0.30       
+      CANCEL                      £-0.30       
+SALE FINALISED, ID: 1000038                     
+SALE ID: 1000039                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:08 000039        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000039                     
+SALE ID: 1000040                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:08 000040        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000040                     
+SALE ID: 1000041                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:08 000041        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000041                     
+SALE ID: 1000042                                
+H. ALTUN          REG               ID#1        
+THURSDAY 18 MARCH 2021      16:08 000042        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000042                     
+ TOUCHPOINT CLOSED DOWN: 18/03 - 16:12          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/03 - 16:13            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:13)                   
+ TOUCHPOINT CLOSED DOWN: 18/03 - 16:34          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/03 - 16:36            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:36)                   
+ TOUCHPOINT CLOSED DOWN: 18/03 - 18:12          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/03 - 21:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:22)                   

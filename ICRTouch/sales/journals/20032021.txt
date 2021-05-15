@@ -1,0 +1,291 @@
+ TOUCHPOINT CLOSED DOWN: 20/03 - 09:12          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 20/03 - 09:14            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (09:14)                   
+SALE ID: 1000060                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      09:14 000060        
+1     GROCERY                      £0.01       
+      CANCEL                      £-0.01       
+SALE FINALISED, ID: 1000060                     
+MODE CHANGE, PROGRAM 4 MODE (09:15)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Transaction Key                                
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (09:15)                   
+SALE ID: 1000061                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      09:15 000061        
+      PAID OUT                     £1.00       
+       MEDIA, CASH in Drawer       £1.00       
+      REASON 1                                  
+SALE FINALISED, ID: 1000061                     
+MODE CHANGE, PROGRAM 4 MODE (09:16)             
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Transaction Key                                
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (09:17)                   
+SALE ID: 1000062                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      09:17 000062        
+      LOTTO PAYOUT                 £5.00       
+       MEDIA, CASH in Drawer       £5.00       
+SALE FINALISED, ID: 1000062                     
+SALE ID: 1000063                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      09:17 000063        
+1     TOBACCO                     £10.00       
+      Error Corr                                
+-1    TOBACCO                    £-10.00       
+                                                
+                        0 No                    
+      TOTAL                   §D£0.00§d      
+      £2                           £2.00      
+      §DCHANGE§d                 £2.00       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000063                     
+SALE ID: 1000064                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      09:17 000064        
+1     TOBACCO                     £10.00       
+                                                
+                        1 No                    
+      TOTAL                 §D£10.00§d       
+      CASH                        £10.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £10.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000064                     
+MODE CHANGE, REG MODE (09:34)                   
+MODE CHANGE, REG MODE (09:34)                   
+MODE CHANGE, PROGRAM 4 MODE (09:35)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (09:36)                   
+MODE CHANGE, PROGRAM 4 MODE (09:37)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (09:37)                   
+SALE ID: 1000065                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      10:12 000065        
+      LOTTO PAYOUT                 £2.00       
+       MEDIA, CASH in Drawer       £2.00       
+SALE FINALISED, ID: 1000065                     
+SALE ID: 1000066                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      10:34 000066        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000066                     
+SALE ID: 1000067                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      10:34 000067        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000067                     
+SALE ID: 1000068                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      10:34 000068        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000068                     
+SALE ID: 1000069                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      10:34 000069        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000069                     
+ TOUCHPOINT CLOSED DOWN: 20/03 - 10:34          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 20/03 - 10:37            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (10:38)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (10:38)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (10:38)                   
+SALE ID: 1000070                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      10:39 000070        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000070                     
+SALE ID: 1000071                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      10:39 000071        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000071                     
+MODE CHANGE, REG MODE (10:39)                   
+MODE CHANGE, REG MODE (10:39)                   
+MODE CHANGE, REG MODE (10:39)                   
+ TOUCHPOINT CLOSED DOWN: 20/03 - 10:49          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 20/03 - 10:55            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (10:56)             
+CHANGED FILES:                                  
+ Level Names                                    
+ IO Parameter                                   
+MODE CHANGE, REG MODE (10:56)                   
+ TOUCHPOINT CLOSED DOWN: 20/03 - 10:56          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 20/03 - 10:57            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (10:57)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Status Key                                     
+ TOUCHPOINT CLOSED DOWN: 20/03 - 10:59          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 20/03 - 10:59            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (10:59)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 60017 TO: 60017                         
+ Level Names                                    
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (11:00)                   
+MODE CHANGE, PROGRAM 4 MODE (11:01)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 60017 TO: 60017                         
+ Level Names                                    
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (11:01)                   
+SALE ID: 1000072                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      11:01 000072        
+       0.575kg @£4.99/kg                       
+      MANUAL WEIGHT                £2.87       
+       0.575kg @£9.99/kg                       
+      MANUAL WEIGHT                £5.74       
+       0.575kg @£1.25/kg                       
+      MANUAL WEIGHT                £0.72       
+       0.795kg @£1.45/kg                       
+      MANUAL WEIGHT                £1.15       
+       0.795kg @£1.25/kg                       
+      MANUAL WEIGHT                £0.99       
+       0.52kg @£4.99/kg                        
+      MANUAL WEIGHT                £2.59       
+                                                
+                        6 No                    
+      TOTAL                 §D£14.06§d       
+      CASH                        £14.06       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £14.06   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000072                     
+ TOUCHPOINT CLOSED DOWN: 20/03 - 11:44          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 20/03 - 11:54            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (11:54)                   
+MODE CHANGE, MANAGER MODE (11:54)               
+MODE CHANGE, PROGRAM 3 MODE (11:54)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, PROGRAM 3 MODE (11:55)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (11:55)                   
+ TOUCHPOINT CLOSED DOWN: 20/03 - 12:19          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 20/03 - 12:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (12:22)                   
+SALE ID: 1000073                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      12:23 000073        
+       0.48kg @£2.99/kg                        
+      MANUAL WEIGHT                £1.44       
+       0.48kg @£9.99/kg                        
+      MANUAL WEIGHT                £4.80       
+1     FRUIT                        £1.25       
+1     VEG                          £5.20       
+                                                
+                        4 No                    
+      TOTAL                 §D£12.69§d       
+      CASH                        £12.69       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £12.69   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000073                     
+ TOUCHPOINT CLOSED DOWN: 20/03 - 12:30          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 20/03 - 12:42            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (12:42)                   
+SALE ID: 1000074                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      12:42 000074        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000074                     
+SALE ID: 1000075                                
+H. ALTUN          REG               ID#1        
+SATURDAY 20 MARCH 2021      12:43 000075        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000075                     
+MODE CHANGE, MANAGER MODE (12:43)               
+MODE CHANGE, PROGRAM 3 MODE (12:44)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (12:49)                   

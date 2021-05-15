@@ -1,0 +1,243 @@
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (14:42)             
+CHANGED FILES:                                  
+ Level Names                                    
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (14:54)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 1022 TO: 1025                           
+ FILE 3                                         
+ Level Names                                    
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (14:56)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 9179 TO: 9179                           
+ Level Names                                    
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (14:57)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 18826 TO: 20945                         
+ FILE 3                                         
+ Level Names                                    
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:05)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 12/03 - 15:07            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:08)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 12/03 - 15:15            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:17)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:19)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 65000 TO: 0                             
+ Level Names                                    
+MODE CHANGE, REG MODE (15:19)                   
+SALE ID: 1000007                                
+Chris             REG               ID#1        
+FRIDAY 12 MARCH 2021        15:20 000007        
+1     PINAR MADRAN 0.5LT           £0.99       
+1     RIBENA strawberry            £2.99       
+                                                
+                        2 No                    
+      TOTAL                   §D£3.98§d      
+      CASH                         £3.98       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.98   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000007                     
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:22)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 65000 TO: 0                             
+ Level Names                                    
+ICRTouch v70.13 START: 12/03 - 15:24            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:24)                   
+ICRTouch v70.13 START: 12/03 - 15:24            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:24)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:24)                   
+ICRTouch v70.13 START: 12/03 - 15:25            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:25)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:25)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 12/03 - 15:31            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:31)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:31)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:31)                   
+SALE ID: 1000008                                
+Chris             REG               ID#1        
+FRIDAY 12 MARCH 2021        15:32 000008        
+1     APPLE CUSTARD                £0.99       
+1     APPLE FUJI                   £2.69       
+                                                
+                        2 No                    
+      TOTAL                   §D£3.68§d      
+      CASH                         £3.68       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.68   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000008                     
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:32)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:34)                   
+SALE ID: 1000009                                
+Chris             REG               ID#1        
+FRIDAY 12 MARCH 2021        15:34 000009        
+1     GROCERY                      £1.20       
+1     DAIRY                        £2.50       
+1     TOBACCO                      £3.50       
+1     SWEETS & CHOC                £0.50       
+1     BAKLAVA                     £25.00       
+1     SOFT DRINKS                  £4.50       
+1     BAKLAVA                      £2.50       
+1     BREAD                        £4.50       
+1     DAIRY                        £4.50       
+1     ALCOHOL                      £9.99       
+1     BREAD                       £89.99       
+1     TOBACCO                      £2.50       
+                                                
+                        12 No                   
+      TOTAL               §D£151.18§d        
+      CASH                       £151.18       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)       £151.18   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000009                     
+ICRTouch v70.13 START: 12/03 - 15:41            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:41)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:41)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 12/03 - 15:44            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:44)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:44)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:46)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:46)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:48)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:48)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Finalise Key                                   
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:50)                   
+SALE ID: 1000010                                
+Chris             REG               ID#1        
+FRIDAY 12 MARCH 2021        15:50 000010        
+1     BAKLAVA                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000010                     
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:50)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:50)             
+CHANGED FILES:                                  
+ Level Names                                    
+TECHNICIAN CODE USED                            
+MODE CHANGE, REG MODE (15:51)                   
+MODE CHANGE, REG MODE (15:52)                   
+ICRTouch v70.13 START: 12/03 - 15:53            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:53)                   
+ICRTouch v70.13 START: 12/03 - 15:54            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:54)                   
+ICRTouch v70.13 START: 12/03 - 15:55            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:55)                   

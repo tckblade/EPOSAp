@@ -1,0 +1,61 @@
+// TOW Account Active Indicator
+local bDebugPrinting = false;
+local nTOW_Window = 0;
+
+function OnInit()
+{
+    ICR_SetLocalUserData("bDebugPrinting",false,true);
+
+    //Wrapped try to catch win permissions / missing file breaking. 
+    try
+    {
+        if(bDebugPrinting)print("Loading window.xml");
+        nTOW_Window = ICR_SalesModeWindow_Add("window.xml");
+        if(nTOW_Window != 0)ICR_Window_Enable(nTOW_Window, false);
+    }
+    catch(e)
+    {
+        print(e);
+    }
+    if(bDebugPrinting)print("TOWWindowID"+nTOW_Window);
+    
+    //Do we have a web service ?
+    local tSysConfig = ICR_GetPGMData(302,1);
+
+    if(tSysConfig.CONNECT_FLAG & 0x0004) //IDC UPLOADER
+    {
+        if(bDebugPrinting)print("Enabling Window");
+        if(nTOW_Window != 0)ICR_Window_Enable(nTOW_Window, true);
+        ICR_RedrawWindow(21 , nTOW_Window);
+        ICR_RedrawScreen();
+    }
+    else
+    {
+        if(bDebugPrinting)print("Disable Window");
+        if(nTOW_Window != 0)ICR_Window_Enable(nTOW_Window, false);
+    }
+}
+
+function AfterModeChange( nFrom , nTo)
+{
+    if(nFrom == 10)
+    {
+
+        //Do we have a web service ?
+        local tSysConfig = ICR_GetPGMData(302,1);
+
+        if(tSysConfig.CONNECT_FLAG & 0x0004) 
+        {
+            if(bDebugPrinting)print("Enabling Window");
+            if(nTOW_Window != 0)ICR_Window_Enable(nTOW_Window, true);
+            ICR_RedrawWindow(21 , nTOW_Window);
+            ICR_RedrawScreen();
+        }
+        else
+        {
+            if(bDebugPrinting)print("Disable Window");
+            if(nTOW_Window != 0)ICR_Window_Enable(nTOW_Window, false);
+            ICR_RedrawScreen();
+        }
+    }
+}

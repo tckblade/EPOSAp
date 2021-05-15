@@ -1,0 +1,19 @@
+ICRTouch v70.13 START: 01/05 - 01:31            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (01:31)                   
+SALE ID: 1000146                                
+H. ALTUN          REG               ID#1        
+SATURDAY 1 MAY 2021         01:32 000146        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      LOTTO PAY                    £0.01       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000146                     
+ TOUCHPOINT CLOSED DOWN: 01/05 - 01:34          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

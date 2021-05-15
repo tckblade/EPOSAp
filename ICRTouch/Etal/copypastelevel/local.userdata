@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<USERDATA>
+  <ITEM>
+    <NAME>bDebugPrinting</NAME>
+    <KIND>BOOLEAN</KIND>
+    <VALUE>FALSE</VALUE>
+  </ITEM>
+  <ITEM>
+    <NAME>Copy Paste Level</NAME>
+    <KIND>INTEGER</KIND>
+    <VALUE>200</VALUE>
+  </ITEM>
+</USERDATA>

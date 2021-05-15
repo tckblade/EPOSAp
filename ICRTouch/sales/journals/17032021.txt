@@ -1,0 +1,1552 @@
+ICRTouch v70.13 START: 17/03 - 14:01            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:01)                   
+ICRTouch v70.13 START: 17/03 - 14:02            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:03)                   
+ICRTouch v70.13 START: 17/03 - 14:12            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:12)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:13)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:14)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Status Key                                     
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (14:19)                   
+MODE CHANGE, Z MODE (14:19)                     
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:19)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (14:20)                   
+MODE CHANGE, MANAGER MODE (14:20)               
+MODE CHANGE, X MODE (14:20)                     
+MODE CHANGE, REG MODE (14:20)                   
+ICRTouch v70.13 START: 17/03 - 14:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:22)                   
+ICRTouch v70.13 START: 17/03 - 14:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:22)                   
+ICRTouch v70.13 START: 17/03 - 14:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:23)                   
+ICRTouch v70.13 START: 17/03 - 14:24            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:24)                   
+ICRTouch v70.13 START: 17/03 - 14:26            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:26)                   
+MODE CHANGE, REG MODE (14:27)                   
+ICRTouch v70.13 START: 17/03 - 14:27            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:27)                   
+ICRTouch v70.13 START: 17/03 - 14:28            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:28)                   
+MODE CHANGE, MANAGER MODE (14:28)               
+ICRTouch v70.13 START: 17/03 - 14:29            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:29)                   
+ICRTouch v70.13 START: 17/03 - 14:29            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:29)                   
+ICRTouch v70.13 START: 17/03 - 14:30            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:30)                   
+ICRTouch v70.13 START: 17/03 - 14:30            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:30)                   
+ICRTouch v70.13 START: 17/03 - 14:30            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:30)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:30)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (14:31)                   
+ICRTouch v70.13 START: 17/03 - 14:33            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:33)                   
+ICRTouch v70.13 START: 17/03 - 14:34            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:34)                   
+ICRTouch v70.13 START: 17/03 - 14:35            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:35)                   
+ICRTouch v70.13 START: 17/03 - 14:35            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:35)                   
+ICRTouch v70.13 START: 17/03 - 14:36            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:36)                   
+MODE CHANGE, REG MODE (14:36)                   
+MODE CHANGE, REG MODE (14:36)                   
+MODE CHANGE, REG MODE (14:36)                   
+MODE CHANGE, REG MODE (14:36)                   
+ICRTouch v70.13 START: 17/03 - 14:37            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:37)                   
+ICRTouch v70.13 START: 17/03 - 14:38            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:38)                   
+MODE CHANGE, REG MODE (14:38)                   
+ICRTouch v70.13 START: 17/03 - 14:38            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:38)                   
+ICRTouch v70.13 START: 17/03 - 14:39            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:39)                   
+ICRTouch v70.13 START: 17/03 - 14:39            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:39)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:39)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, REG MODE (14:40)                   
+ICRTouch v70.13 START: 17/03 - 14:43            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:43)                   
+ICRTouch v70.13 START: 17/03 - 14:45            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:45)                   
+ICRTouch v70.13 START: 17/03 - 14:45            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:45)                   
+MODE CHANGE, REG MODE (14:45)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:46)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (14:46)                   
+ICRTouch v70.13 START: 17/03 - 14:46            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:46)                   
+ICRTouch v70.13 START: 17/03 - 14:48            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:48)                   
+ TOUCHPOINT CLOSED DOWN: 17/03 - 14:48          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 14:49            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:49)                   
+SALE ID: 1000011                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     14:49 000011        
+1     GROCERY                      £1.20       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.20§d      
+      CASH                         £1.20       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.20   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000011                     
+ICRTouch v70.13 START: 17/03 - 14:49            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:49)                   
+SALE ID: 1000012                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     14:49 000012        
+1     BAKLAVA                      £1.20       
+1     BAKLAVA                      £2.00       
+1     TOBACCO                     £56.00       
+      CANCEL                     £-59.20       
+SALE FINALISED, ID: 1000012                     
+ TOUCHPOINT CLOSED DOWN: 17/03 - 14:49          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 14:50            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:50)                   
+ICRTouch v70.13 START: 17/03 - 14:50            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:50)                   
+MODE CHANGE, REG MODE (14:51)                   
+SALE ID: 1000013                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     14:51 000013        
+1     GROCERY                      £1.20       
+      SUBTOTAL                     £1.20       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.20§d      
+      CASH                         £1.20       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.20   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000013                     
+ICRTouch v70.13 START: 17/03 - 14:52            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:52)                   
+MODE CHANGE, REG MODE (14:52)                   
+ICRTouch v70.13 START: 17/03 - 14:52            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:52)                   
+ICRTouch v70.13 START: 17/03 - 14:53            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:53)                   
+MODE CHANGE, REG MODE (14:53)                   
+SALE ID: 1000014                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     14:54 000014        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000014                     
+ICRTouch v70.13 START: 17/03 - 14:56            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:56)                   
+MODE CHANGE, REG MODE (14:57)                   
+ICRTouch v70.13 START: 17/03 - 14:58            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:58)                   
+MODE CHANGE, REG MODE (14:58)                   
+MODE CHANGE, PROGRAM 6 MODE (14:59)             
+MODE CHANGE, REG MODE (14:59)                   
+ICRTouch v70.13 START: 17/03 - 15:00            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:00)                   
+ICRTouch v70.13 START: 17/03 - 15:01            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:01)                   
+ICRTouch v70.13 START: 17/03 - 15:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:04)                   
+ICRTouch v70.13 START: 17/03 - 15:07            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:07)                   
+MODE CHANGE, PROGRAM 4 MODE (15:07)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:13)                   
+SALE ID: 1000015                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:13 000015        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000015                     
+ICRTouch v70.13 START: 17/03 - 15:14            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:14)                   
+SALE ID: 1000016                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:15 000016        
+1     GROCERY                      £0.01       
+1     BREAD                        £0.02       
+1     BAKLAVA                      £0.03       
+1     BREAD                        £0.04       
+1     DAIRY                        £0.05       
+      SUBTOTAL                     £0.15       
+                                                
+                        5 No                    
+      TOTAL                   §D£0.15§d      
+      CASH                         £0.15       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.15   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000016                     
+SALE ID: 1000017                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:15 000017        
+1     BAKLAVA                      £0.01       
+1     BAKLAVA                      £0.01       
+1     BAKLAVA                      £0.01       
+1     BAKLAVA                      £0.01       
+1     BAKLAVA                      £0.01       
+1     BAKLAVA                      £0.01       
+                                                
+                        6 No                    
+      TOTAL                   §D£0.06§d      
+      CASH                         £0.06       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.06   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000017                     
+ICRTouch v70.13 START: 17/03 - 15:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:16)                   
+MODE CHANGE, REG MODE (15:16)                   
+ICRTouch v70.13 START: 17/03 - 15:17            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:17)                   
+ICRTouch v70.13 START: 17/03 - 15:18            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ICRTouch v70.13 START: 17/03 - 15:18            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ICRTouch v70.13 START: 17/03 - 15:20            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:20)                   
+MODE CHANGE, PROGRAM 4 MODE (15:21)             
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 60006 TO: 60015                         
+ Level Names                                    
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:28)                   
+SALE ID: 1000018                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:29 000018        
+1     GROCERY                      £0.01       
+1     BREAD                        £1.20       
+1     BREAD                        £2.50       
+      SUBTOTAL                     £3.71       
+                                                
+                        3 No                    
+      TOTAL                   §D£3.71§d      
+      CASH                         £3.71       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.71   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000018                     
+SALE ID: 1000019                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:29 000019        
+1     GROCERY                      £1.20       
+      SUBTOTAL                     £1.20       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.20§d      
+      CASH                         £1.20       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.20   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000019                     
+MODE CHANGE, REG MODE (15:30)                   
+MODE CHANGE, REG MODE (15:30)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:30)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, MANAGER MODE (15:32)               
+MODE CHANGE, REG MODE (15:32)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:32)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:34)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:34)             
+CHANGED FILES:                                  
+ Level Names                                    
+ System Flags                                   
+MODE CHANGE, REG MODE (15:36)                   
+SALE ID: 1000020                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:36 000020        
+1     LOTTO                        £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000020                     
+ICRTouch v70.13 START: 17/03 - 15:37            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:37)             
+CHANGED FILES:                                  
+ Level Names                                    
+ System Flags                                   
+MODE CHANGE, REG MODE (15:37)                   
+SALE ID: 1000021                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:37 000021        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CREDIT CARD                  £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000021                     
+ICRTouch v70.13 START: 17/03 - 15:38            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:39)                   
+SALE ID: 1000022                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:39 000022        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000022                     
+SALE ID: 1000023                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:39 000023        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £2.50       
+      §DCHANGE§d                 £2.49       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000023                     
+SALE ID: 1000024                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:39 000024        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000024                     
+ TOUCHPOINT CLOSED DOWN: 17/03 - 15:39          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 15:39            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:39)                   
+SALE ID: 1000025                                
+Chris             REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:39 000025        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000025                     
+MODE CHANGE, REG MODE (15:40)                   
+ICRTouch v70.13 START: 17/03 - 15:40            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:40)             
+CHANGED FILES:                                  
+ Clerk                                          
+ Level Names                                    
+MODE CHANGE, REG MODE (15:47)                   
+C1 ALLERGEN DISCLAIMER                          
+MODE CHANGE, PROGRAM 3 MODE (15:47)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (15:47)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 5 MODE (15:48)             
+ Clerk: 121 => 12 OK                            
+CHANGED FILES:                                  
+ FILE 399                                       
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:48)             
+CHANGED FILES:                                  
+ Level Names                                    
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 5 MODE (15:48)             
+ Clerk: 12 => 13 OK                             
+CHANGED FILES:                                  
+ Clerk                                          
+ FILE 399                                       
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:48)             
+CHANGED FILES:                                  
+ Clerk                                          
+ Level Names                                    
+MODE CHANGE, REG MODE (15:49)                   
+ICRTouch v70.13 START: 17/03 - 15:49            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:49)                   
+SALE ID: 1000026                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:49 000026        
+1     GROCERY                      £1.20       
+1     DAIRY                        £0.20       
+      SUBTOTAL                     £1.40       
+                                                
+                        2 No                    
+      TOTAL                   §D£1.40§d      
+      CASH                         £1.40       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.40   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000026                     
+SALE ID: 1000027                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:49 000027        
+1     GROCERY                      £1.20       
+1     BREAD                        £2.50       
+1     DAIRY                        £0.30       
+      SUBTOTAL                     £4.00       
+                                                
+                        3 No                    
+      TOTAL                   §D£4.00§d      
+      £50                         £50.00      
+      §DCHANGE§d                £46.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £4.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000027                     
+MODE CHANGE, MANAGER MODE (15:50)               
+MODE CHANGE, X MODE (15:50)                     
+MODE CHANGE, Z MODE (15:50)                     
+MODE CHANGE, MANAGER MODE (15:50)               
+MODE CHANGE, REG MODE (15:50)                   
+SALE ID: 1000028                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:50 000028        
+1     GROCERY                      £1.20       
+1     GROCERY                     £22.50       
+      Suspend                     £23.70       
+          * CLERK INTERRUPTED *                 
+SALE ID: 1000029                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:50 000029        
+1     TOBACCO                      £2.50       
+                                                
+                        1 No                    
+      TOTAL                   §D£2.50§d      
+      CREDIT CARD                  £2.50       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.50   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000029                     
+SALE ID: 1000028                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:50 000028        
+ FROM: ID#1 CT: 1                               
+ PBAL: £23.70 No: 2                            
+      Resume                      £23.70       
+                                                
+                        2 No                    
+      TOTAL                 §D£23.70§d       
+      CASH                        £23.70       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £23.70   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000028                     
+MODE CHANGE, PROGRAM 3 MODE (15:53)             
+CHANGED FILES:                                  
+ Level Names                                    
+ System Flags                                   
+MODE CHANGE, REG MODE (15:53)                   
+MODE CHANGE, PROGRAM 3 MODE (15:54)             
+CHANGED FILES:                                  
+ Level Names                                    
+ System Flags                                   
+ FILE 302                                       
+ IO Parameter                                   
+ Device Connection                              
+MODE CHANGE, REG MODE (15:59)                   
+ICRTouch v70.13 START: 17/03 - 15:59            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (16:00)             
+CHANGED FILES:                                  
+ Level Names                                    
+ IO Parameter                                   
+MODE CHANGE, REG MODE (16:00)                   
+SALE ID: 1000030                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:00 000030        
+1     GROCERY                      £1.20       
+1     GROCERY                      £2.50       
+                                                
+                        2 No                    
+      TOTAL                   §D£3.70§d      
+      CASH                         £3.70       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.70   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000030                     
+MODE CHANGE, REG MODE (16:01)                   
+ICRTouch v70.13 START: 17/03 - 16:01            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ICRTouch v70.13 START: 17/03 - 16:03            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ICRTouch v70.13 START: 17/03 - 16:03            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:03)                   
+ICRTouch v70.13 START: 17/03 - 16:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+** EJF RESET                                    
+** PLU Period 1 Totals Reset                    
+** PLU Group Period 1 Totals Reset              
+** Clerk Detail Period 1 Totals Reset           
+** Tax Table Period 1 Totals Reset              
+** Fixed Totaliser Period 1 Totals Reset        
+** Finalise Key Period 1 Totals Reset           
+** Transaction Key Period 1 Totals Reset        
+** Department Period 1 Totals Reset             
+** Time Zone Period 1 Totals Reset              
+** Mix & Match Period 1 Totals Reset            
+** Mix & Match 2 Period 1 Totals Reset          
+** Reason Table Period 1 Reset                  
+** Customer File Period 1 Totals Reset          
+ALL CUSTOMERS                                   
+** Table Analysis Period 1 Totals Reset         
+** PLU Period 2 Totals Reset                    
+** PLU Group Period 2 Totals Reset              
+** Clerk Detail Period 2 Totals Reset           
+** Tax Table Period 2 Totals Reset              
+** Fixed Totaliser Period 2 Totals Reset        
+** Finalise Key Period 2 Totals Reset           
+** Transaction Key Period 2 Totals Reset        
+** Department Period 2 Totals Reset             
+** Time Zone Period 2 Totals Reset              
+** Mix & Match Period 2 Totals Reset            
+** Mix & Match 2 Period 2 Totals Reset          
+** Reason Table Period 2 Reset                  
+** Customer File Period 2 Totals Reset          
+ALL CUSTOMERS                                   
+** Table Analysis Period 2 Totals Reset         
+** PLU Period 3 Totals Reset                    
+** PLU Group Period 3 Totals Reset              
+** Clerk Detail Period 3 Totals Reset           
+** Tax Table Period 3 Totals Reset              
+** Fixed Totaliser Period 3 Totals Reset        
+** Finalise Key Period 3 Totals Reset           
+** Transaction Key Period 3 Totals Reset        
+** Department Period 3 Totals Reset             
+** Time Zone Period 3 Totals Reset              
+** Mix & Match Period 3 Totals Reset            
+** Mix & Match 2 Period 3 Totals Reset          
+** Reason Table Period 3 Reset                  
+** Customer File Period 3 Totals Reset          
+ALL CUSTOMERS                                   
+** Table Analysis Period 3 Totals Reset         
+** PLU Stock Totals Reset                       
+** PLU Last Time Sold Reset                     
+** Table Reservations Reset                     
+** Time and Attendance reset                    
+** Customer detail reset                        
+** IDC File Reset                               
+ICRTouch v70.13 START: 17/03 - 16:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ICRTouch v70.13 START: 17/03 - 16:06            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (16:06)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (16:06)             
+CHANGED FILES:                                  
+ Level Names                                    
+ IO Parameter                                   
+ Device Connection                              
+ TOUCHPOINT CLOSED DOWN: 17/03 - 16:07          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 16:07            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:07)                   
+SALE ID: 1000001                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:07 000001        
+1     LOTTO                        £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000001                     
+ TOUCHPOINT CLOSED DOWN: 17/03 - 16:07          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 16:10            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:10)                   
+SALE ID: 1000002                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:10 000002        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000002                     
+ TOUCHPOINT CLOSED DOWN: 17/03 - 16:11          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 16:11            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:11)                   
+SALE ID: 1000003                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:11 000003        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000003                     
+SALE ID: 1000004                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:11 000004        
+1     GROCERY                      £0.01       
+1     BREAD                        £0.02       
+1     DAIRY                        £0.03       
+1     ALCOHOL                      £0.04       
+                                                
+                        4 No                    
+      TOTAL                   §D£0.10§d      
+      CASH                         £0.10       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.10   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000004                     
+ TOUCHPOINT CLOSED DOWN: 17/03 - 16:12          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 16:12            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:12)                   
+SALE ID: 1000005                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:12 000005        
+1     LOTTO                        £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000005                     
+SALE ID: 1000006                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:13 000006        
+1     GROCERY                      £0.01       
+1     GROCERY                      £0.01       
+      SUBTOTAL                     £0.02       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.02§d      
+      CASH                         £0.02       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.02   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000006                     
+ TOUCHPOINT CLOSED DOWN: 17/03 - 16:14          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 16:14            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+ TOUCHPOINT CLOSED DOWN: 17/03 - 16:16          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 16:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:16)                   
+SALE ID: 1000007                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:17 000007        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000007                     
+ICRTouch v70.13 START: 17/03 - 16:18            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:19)                   
+MODE CHANGE, REG MODE (16:19)                   
+MODE CHANGE, REG MODE (16:21)                   
+MODE CHANGE, REG MODE (16:27)                   
+** EJF RESET                                    
+** PLU Period 1 Totals Reset                    
+** PLU Group Period 1 Totals Reset              
+** Clerk Detail Period 1 Totals Reset           
+** Tax Table Period 1 Totals Reset              
+** Fixed Totaliser Period 1 Totals Reset        
+** Finalise Key Period 1 Totals Reset           
+** Transaction Key Period 1 Totals Reset        
+** Department Period 1 Totals Reset             
+** Time Zone Period 1 Totals Reset              
+** Mix & Match Period 1 Totals Reset            
+** Mix & Match 2 Period 1 Totals Reset          
+** Reason Table Period 1 Reset                  
+** Customer File Period 1 Totals Reset          
+ALL CUSTOMERS                                   
+** Table Analysis Period 1 Totals Reset         
+** PLU Period 2 Totals Reset                    
+** PLU Group Period 2 Totals Reset              
+** Clerk Detail Period 2 Totals Reset           
+** Tax Table Period 2 Totals Reset              
+** Fixed Totaliser Period 2 Totals Reset        
+** Finalise Key Period 2 Totals Reset           
+** Transaction Key Period 2 Totals Reset        
+** Department Period 2 Totals Reset             
+** Time Zone Period 2 Totals Reset              
+** Mix & Match Period 2 Totals Reset            
+** Mix & Match 2 Period 2 Totals Reset          
+** Reason Table Period 2 Reset                  
+** Customer File Period 2 Totals Reset          
+ALL CUSTOMERS                                   
+** Table Analysis Period 2 Totals Reset         
+** PLU Period 3 Totals Reset                    
+** PLU Group Period 3 Totals Reset              
+** Clerk Detail Period 3 Totals Reset           
+** Tax Table Period 3 Totals Reset              
+** Fixed Totaliser Period 3 Totals Reset        
+** Finalise Key Period 3 Totals Reset           
+** Transaction Key Period 3 Totals Reset        
+** Department Period 3 Totals Reset             
+** Time Zone Period 3 Totals Reset              
+** Mix & Match Period 3 Totals Reset            
+** Mix & Match 2 Period 3 Totals Reset          
+** Reason Table Period 3 Reset                  
+** Customer File Period 3 Totals Reset          
+ALL CUSTOMERS                                   
+** Table Analysis Period 3 Totals Reset         
+** PLU Stock Totals Reset                       
+** PLU Last Time Sold Reset                     
+** Table Reservations Reset                     
+** Time and Attendance reset                    
+** Customer detail reset                        
+** IDC File Reset                               
+ICRTouch v70.13 START: 17/03 - 16:27            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:27)                   
+MODE CHANGE, REG MODE (16:27)                   
+MODE CHANGE, PROGRAM 4 MODE (16:28)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 60013 TO: 60014                         
+ Level Names                                    
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (16:29)                   
+SALE ID: 1000001                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:29 000001        
+1     FRUIT                        £0.01       
+1     VEG                          £0.02       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.03§d      
+      CASH                         £0.03       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.03   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000001                     
+MODE CHANGE, PROGRAM 4 MODE (16:29)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 60016 TO: 60016                         
+ Level Names                                    
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (16:31)                   
+MODE CHANGE, REG MODE (16:32)                   
+MODE CHANGE, REG MODE (16:32)                   
+ICRTouch v70.13 START: 17/03 - 16:39            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (16:39)                   
+MODE CHANGE, REG MODE (16:40)                   
+MODE CHANGE, REG MODE (16:55)                   
+SALE ID: 1000002                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:55 000002        
+1     GROCERY                      £0.25       
+1     DAIRY                        £2.50       
+      Error Corr                                
+-1    DAIRY                       £-2.50       
+      Error Corr                                
+-1    GROCERY                     £-0.25       
+      CANCEL                       £0.00       
+SALE FINALISED, ID: 1000002                     
+SALE ID: 1000003                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:56 000003        
+1     HOUSEHOLD                    £0.04       
+1     HOUSEHOLD                    £0.05       
+1     HOUSEHOLD                    £0.05       
+1     HOUSEHOLD                    £0.08       
+1     SWEETS & CHOC                £0.09       
+1     NEWS & MAG                   £0.09       
+1     NEWS & MAG                   £0.09       
+1     SWEETS & CHOC                £1.25       
+1     SWEETS & CHOC                £1.48       
+1     TOBACCO                      £1.47       
+1     HOUSEHOLD                    £1.25       
+1     GROCERY                     £12.58       
+1     GROCERY                      £1.58       
+1     GROCERY                    £145.87       
+1     LOTTO                    £14580.00       
+      SUBTOTAL                 £14745.97       
+                                                
+                        15 No                   
+      TOTAL           §D£14745.97§d          
+      £50                         £50.00      
+      SHORT                    £14695.97       
+      SUBTOTAL                 £14695.97       
+          * CLERK INTERRUPTED *                 
+SALE ID: 1000003                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:56 000003        
+ FROM: ID#1 CT: 1                               
+ PBAL: £14695.97 No: 15                        
+      CASH                     £14695.97       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)     £14745.97   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000003                     
+SALE ID: 1000004                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:59 000004        
+1     LOTTO                        £1.25       
+      CANCEL                      £-1.25       
+SALE FINALISED, ID: 1000004                     
+SALE ID: 1000005                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:59 000005        
+1     HOUSEHOLD                    £0.01       
+1     SWEETS & CHOC                £2.36       
+1     ALCOHOL                      £1.25       
+1     ALCOHOL                      £0.04       
+      CANCEL                      £-3.66       
+SALE FINALISED, ID: 1000005                     
+SALE ID: 1000006                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     16:59 000006        
+1     TOBACCO                    £454.55       
+      Error Corr                                
+-1    TOBACCO                   £-454.55       
+1     TOBACCO                      £1.25       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.25§d      
+      £10                         £10.00      
+      §DCHANGE§d                 £8.75       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000006                     
+SALE ID: 1000007                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     17:11 000007        
+1     TOBACCO                      £1.25       
+1     HOUSEHOLD                    £1.25       
+1     VEG                          £2.36       
+1     FRUIT                        £2.35       
+1     FRUIT                        £1.25       
+1     VEG                          £1.25       
+1     PAYZONE                      £1.25       
+                                                
+                        7 No                    
+      TOTAL                 §D£10.96§d       
+      CASH                        £10.96       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £10.96   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000007                     
+SALE ID: 1000008                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     18:14 000008        
+1     TOBACCO                      £1.41       
+1     TOBACCO                      £0.01       
+1     TOBACCO                      £0.01       
+5     HOUSEHOLD                    £3.15       
+      Error Corr                                
+-1    HOUSEHOLD                   £-0.63       
+      Error Corr                                
+-1    HOUSEHOLD                   £-0.63       
+      Error Corr                                
+-1    HOUSEHOLD                   £-0.63       
+      Error Corr                                
+-1    HOUSEHOLD                   £-0.63       
+      Error Corr                                
+-1    HOUSEHOLD                   £-0.63       
+      Error Corr                                
+-1    TOBACCO                     £-0.01       
+      Error Corr                                
+-1    TOBACCO                     £-0.01       
+      Error Corr                                
+-1    TOBACCO                     £-1.41       
+1     TOBACCO                      £0.01       
+1     TOBACCO                      £0.04       
+1     TOBACCO                      £0.04       
+      SUBTOTAL                     £0.09       
+                                                
+                        3 No                    
+      TOTAL                   §D£0.09§d      
+      £5                           £5.00      
+      §DCHANGE§d                 £4.91       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.09   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000008                     
+SALE ID: 1000009                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     18:40 000009        
+1     LOTTO                        £5.00       
+                                                
+                        1 No                    
+      TOTAL                   §D£5.00§d      
+      £2                           £2.00      
+      SHORT                        £3.00       
+      CASH                         £3.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £5.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000009                     
+SALE ID: 1000010                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     18:41 000010        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000010                     
+SALE ID: 1000011                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     18:42 000011        
+1     HOUSEHOLD                    £0.15       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.15§d      
+      CREDIT CARD                 £50.00       
+      CASHBACK                    £40.00       
+      §DCHANGE§d                £49.85       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.15   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000011                     
+ICRTouch v70.13 START: 17/03 - 19:58            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (19:58)                   
+SALE ID: 1000012                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     19:58 000012        
+1     DAIRY                        £0.01       
+1     DAIRY                        £0.02       
+      SUBTOTAL                     £0.03       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.03§d      
+      CASH                         £0.03       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.03   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000012                     
+SALE ID: 1000013                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:01 000013        
+      PAID OUT                     £0.52       
+       MEDIA, CASH in Drawer       £0.52       
+SALE FINALISED, ID: 1000013                     
+MODE CHANGE, MANAGER MODE (20:02)               
+MODE CHANGE, PROGRAM 3 MODE (20:02)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, MANAGER MODE (20:03)               
+MODE CHANGE, PROGRAM 1 MODE (20:03)             
+MODE CHANGE, REFUND MODE (20:04)                
+SALE ID: 1000014                                
+CLERK 1           REFUND            ID#1        
+WEDNESDAY 17 MARCH 2021     20:04 000014        
+-1    TOBACCO                     £-1.25       
+      Error Corr                                
+1     TOBACCO                      £1.25       
+                                                
+                        0 No                    
+      TOTAL                   §D£0.00§d      
+      CASH                         £0.00       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000014                     
+MODE CHANGE, REG MODE (20:04)                   
+SALE ID: 1000015                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:07 000015        
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+      CANCEL                      £-3.96       
+SALE FINALISED, ID: 1000015                     
+SALE ID: 1000016                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:08 000016        
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+      SUBTOTAL                     £4.95       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+1     ETI FORM                     £0.99       
+                                                
+                        4 No                    
+      TOTAL                   §D£3.96§d      
+      CASH                         £3.96       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.96   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000016                     
+SALE ID: 1000017                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:10 000017        
+      REFUND                                    
+-1    ETI FORM                    £-0.99       
+      REASON 1                                  
+                                                
+                        -1 No                   
+      TOTAL                 §D£-0.99§d       
+      CASH                        £-0.99       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £-0.99   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000017                     
+SALE ID: 1000018                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:10 000018        
+1     ETI FORM                     £0.99       
+      REFUND                                    
+-1    ETI FORM                    £-0.99       
+      REASON 1                                  
+                                                
+                        0 No                    
+      TOTAL                   §D£0.00§d      
+      CASH                         £0.00       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000018                     
+SALE ID: 1000019                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:11 000019        
+1     TOBACCO                      £0.15       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.15§d      
+      CASH                         £0.15       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.15   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000019                     
+MODE CHANGE, MANAGER MODE (20:11)               
+MODE CHANGE, PROGRAM 2 MODE (20:11)             
+CHANGED FILES:                                  
+ Clerk                                          
+MODE CHANGE, PROGRAM 3 MODE (20:12)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Customer                                       
+  FROM: 1 TO: 1                                 
+MODE CHANGE, REG MODE (20:13)                   
+SALE ID: 1000020                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:14 000020        
+1     TOBACCO                      £0.01       
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.99       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+      Error Corr                                
+-1    TOBACCO                     £-0.01       
+          * CLERK INTERRUPTED *                 
+SALE ID: 1000020                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:14 000020        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.00 No: 0                             
+1     HOUSEHOLD                    £1.25       
+      SUBTOTAL                     £1.25       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.25§d      
+      CASH                         £1.25       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000020                     
+SALE ID: 1000021                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:17 000021        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000021                     
+SALE ID: 1000022                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:17 000022        
+      NO SALE                      £0.00       
+SALE FINALISED, ID: 1000022                     
+SALE ID: 1000023                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:17 000023        
+1     ETI FORM                     £0.99       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+1     ETI FORM                     £0.99       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+1     LOTTO                        £1.25       
+      Error Corr                                
+-1    LOTTO                       £-1.25       
+          * CLERK INTERRUPTED *                 
+C2 ALLERGEN DISCLAIMER                          
+MODE CHANGE, X MODE (20:18)                     
+MODE CHANGE, MANAGER MODE (20:19)               
+MODE CHANGE, REG MODE (20:20)                   
+SALE ID: 1000023                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:17 000023        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.00 No: 0                             
+                                                
+                        0 No                    
+      TOTAL                   §D£0.00§d      
+      CASH                         £0.00       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000023                     
+ TOUCHPOINT CLOSED DOWN: 17/03 - 20:21          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 17/03 - 20:25            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (20:25)                   
+C1 ALLERGEN DISCLAIMER                          
+SALE ID: 1000024                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 17 MARCH 2021     20:25 000024        
+1     ETI FORM                     £0.99       
+1     ETI FORM                     £0.98       
+1     ETI FORM                     £0.98       
+      Error Corr                                
+-1    ETI FORM                    £-0.98       
+      Error Corr                                
+-1    ETI FORM                    £-0.98       
+      Error Corr                                
+-1    ETI FORM                    £-0.99       
+                                                
+                        0 No                    
+      TOTAL                   §D£0.00§d      
+      CASH                         £0.00       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000024                     
+MODE CHANGE, MANAGER MODE (20:29)               
+   BUSY RESET: CHECK 1                          
+MODE CHANGE, PROGRAM 6 MODE (20:30)             
+MODE CHANGE, PROGRAM 1 MODE (20:30)             
+MODE CHANGE, PROGRAM 3 MODE (20:30)             
+CHANGED FILES:                                  
+ Level Names                                    
+ Device Connection                              
+ TOUCHPOINT CLOSED DOWN: 17/03 - 20:35          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

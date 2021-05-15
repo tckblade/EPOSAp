@@ -1,0 +1,94 @@
+ICRTouch v70.13 START: 17/03 - 15:49            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (15:49)                   
+SALE ID: 1000026                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:49 000026        
+1     GROCERY                      £1.20       
+1     DAIRY                        £0.20       
+      SUBTOTAL                     £1.40       
+                                                
+                        2 No                    
+      TOTAL                   §D£1.40§d      
+      CASH                         £1.40       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.40   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000026                     
+SALE ID: 1000027                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:49 000027        
+1     GROCERY                      £1.20       
+1     BREAD                        £2.50       
+1     DAIRY                        £0.30       
+      SUBTOTAL                     £4.00       
+                                                
+                        3 No                    
+      TOTAL                   §D£4.00§d      
+      £50                         £50.00      
+      §DCHANGE§d                £46.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £4.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000027                     
+MODE CHANGE, MANAGER MODE (15:50)               
+MODE CHANGE, X MODE (15:50)                     
+MODE CHANGE, Z MODE (15:50)                     
+MODE CHANGE, MANAGER MODE (15:50)               
+MODE CHANGE, REG MODE (15:50)                   
+SALE ID: 1000028                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:50 000028        
+1     GROCERY                      £1.20       
+1     GROCERY                     £22.50       
+      Suspend                     £23.70       
+          * CLERK INTERRUPTED *                 
+SALE ID: 1000029                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:50 000029        
+1     TOBACCO                      £2.50       
+                                                
+                        1 No                    
+      TOTAL                   §D£2.50§d      
+      CREDIT CARD                  £2.50       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.50   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000029                     
+SALE ID: 1000028                                
+CLERK 1           REG               ID#1        
+WEDNESDAY 17 MARCH 2021     15:50 000028        
+ FROM: ID#1 CT: 1                               
+ PBAL: £23.70 No: 2                            
+      Resume                      £23.70       
+                                                
+                        2 No                    
+      TOTAL                 §D£23.70§d       
+      CASH                        £23.70       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £23.70   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000028                     
+MODE CHANGE, PROGRAM 3 MODE (15:53)             
+CHANGED FILES:                                  
+ Level Names                                    
+ System Flags                                   
+MODE CHANGE, REG MODE (15:53)                   
+MODE CHANGE, PROGRAM 3 MODE (15:54)             

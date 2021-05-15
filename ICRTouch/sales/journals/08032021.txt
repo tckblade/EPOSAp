@@ -1,0 +1,132 @@
+MODE CHANGE, MANAGER MODE (14:42)               
+ICRTouch v70.13 START: 08/03 - 14:43            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:43)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (14:44)                   
+MODE CHANGE, MANAGER MODE (14:45)               
+ICRTouch v70.13 START: 08/03 - 14:45            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (14:45)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 1 TO: 1                                 
+ FILE 3                                         
+ Level Names                                    
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:46)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 08/03 - 14:48            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:48)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:48)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:48)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 08/03 - 14:49            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:49)                   
+MODE CHANGE, MANAGER MODE (14:50)               
+ICRTouch v70.13 START: 08/03 - 14:50            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (14:50)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (14:51)                   
+SALE ID: 1000001                                
+Chris             REG               ID#1        
+MONDAY 8 MARCH 2021         15:14 000001        
+1     Ringwood Best                £3.70       
+                                                
+                        1 No                    
+      TOTAL                   §D£3.70§d      
+      CASH                         £3.70       
+                                                
+   RATE                      NET     TAX        
+T3 VAT @ 20%               £3.08   £0.62      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000001                     
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (15:15)             
+CHANGED FILES:                                  
+ Level Names                                    
+ System Flags                                   
+ Device Connection                              
+MODE CHANGE, REG MODE (15:15)                   
+SALE ID: 1000002                                
+Chris             REG               ID#1        
+MONDAY 8 MARCH 2021         15:19 000002        
+1     Ringwood Best                £3.70       
+1     Ringwood Best                £3.70       
+1     Fuggle De Dum                £3.70       
+1     Ale Of Wight                 £3.70       
+1     Fosters                      £3.60       
+                                                
+                        5 No                    
+      TOTAL                 §D£18.40§d       
+      £20                         £20.00      
+      §DCHANGE§d                 £1.60       
+                                                
+   RATE                      NET     TAX        
+T3 VAT @ 20%              £15.33   £3.07      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000002                     
+SALE ID: 1000003                                
+Chris             REG               ID#1        
+MONDAY 8 MARCH 2021         15:19 000003        
+1     Ale Of Wight                 £3.70       
+1     Ale Of Wight                 £3.70       
+1     Ale Of Wight                 £3.70       
+1     Fosters                      £3.60       
+1     Fosters                      £3.60       
+                                                
+                        5 No                    
+      TOTAL                 §D£18.30§d       
+      CREDIT CARD                 £18.30       
+      CASHBACK                    £10.00       
+                                                
+   RATE                      NET     TAX        
+T3 VAT @ 20%              £15.25   £3.05      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000003                     

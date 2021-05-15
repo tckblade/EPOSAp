@@ -1,0 +1,6 @@
+SALE ID: 1000006                                
+Chris             REG               ID#1        
+WEDNESDAY 10 MARCH 2021     10:28 000006        
+1     Nessie Jessie                £3.30       
+      CANCEL                      £-3.30       
+SALE FINALISED, ID: 1000006                     

@@ -1,0 +1,118 @@
+ICRTouch v70.13 START: 29/03 - 01:45            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (01:45)                   
+SALE ID: 1000097                                
+H. ALTUN          REG               ID#1        
+MONDAY 29 MARCH 2021        09:42 000097        
+1     APPLE FUJI                   £2.69       
+1     PAYZONE                      £1.25       
+1     LOTTO / BUS                  £1.25       
+1     HOUSEHOLD                    £1.25       
+1     SWEETS & CHOC                £1.25       
+1     SOFT DRINKS                  £4.58       
+1     MISC                         £1.25       
+      SUBTOTAL                    £13.52       
+                                                
+                        7 No                    
+      TOTAL                 §D£13.52§d       
+      CASH                        £13.52       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £13.52   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000097                     
+SALE ID: 1000098                                
+H. ALTUN          REG               ID#1        
+MONDAY 29 MARCH 2021        09:43 000098        
+1     SWEETS & CHOC               £11.25       
+1     SWEETS & CHOC                £4.51       
+                                                
+                        2 No                    
+      TOTAL                 §D£15.76§d       
+      CREDIT CARD                 £15.76       
+      CASHBACK                     £2.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £15.76   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000098                     
+SALE ID: 1000099                                
+H. ALTUN          REG               ID#1        
+MONDAY 29 MARCH 2021        09:43 000099        
+1     HOUSEHOLD                   £51.45       
+1     SWEETS & CHOC                £4.58       
+1     SWEETS & CHOC                £1.25       
+                                                
+                        3 No                    
+      TOTAL                 §D£57.28§d       
+      CASH                         £1.25       
+      SHORT                       £56.03       
+      CASH                         £1.28       
+      SHORT                       £54.75       
+      CREDIT CARD                 £54.75       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £57.28   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000099                     
+SALE ID: 1000100                                
+H. ALTUN          REG               ID#1        
+MONDAY 29 MARCH 2021        09:46 000100        
+1     TOBACCO                      £4.58       
+      Error Corr                                
+-1    TOBACCO                     £-4.58       
+1     CASH BACK £1                 £1.00      
+      CANCEL                      £-1.00       
+SALE FINALISED, ID: 1000100                     
+SALE ID: 1000101                                
+H. ALTUN          REG               ID#1        
+MONDAY 29 MARCH 2021        09:48 000101        
+1     FROZEN / ICE CREAM           £2.58       
+      OPEN TABLE NO:                  12        
+                                                
+                        1 No                    
+      TOTAL                   §D£2.58§d      
+      CASH                         £2.58       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.58   £0.00      
+      CHECK PICKUP COUNT:              1        
+      CURRENT CHECK TOTAL:         £2.58       
+                                                
+==============================================  
+        §DTABLE NO: 12§d                      
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000101                     
+ TOUCHPOINT CLOSED DOWN: 29/03 - 09:49          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 29/03 - 09:53            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (09:53)                   
+SALE ID: 1000102                                
+H. ALTUN          REG               ID#1        
+MONDAY 29 MARCH 2021        13:13 000102        
+1     SWEETS & CHOC                £2.58       
+                                                
+                        1 No                    
+      TOTAL                   §D£2.58§d      
+      CREDIT CARD                  £2.58       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.58   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000102                     

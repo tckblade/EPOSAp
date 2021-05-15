@@ -1,0 +1,389 @@
+SALE ID: 1000207                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:00 000207        
+1     GROCERY                      £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+SALE ID: 1000207                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:00 000207        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      CASH                         £0.01       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000207                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:00          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:02            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:02)                   
+SALE ID: 1000208                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:03 000208        
+1     MISC                         £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+MODE CHANGE, REG MODE (00:03)                   
+MODE CHANGE, REG MODE (00:03)                   
+SALE ID: 1000208                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:03 000208        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+      CANCEL                      £-0.01       
+SALE FINALISED, ID: 1000208                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:03          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:04)                   
+SALE ID: 1000209                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:04 000209        
+1     GROCERY                      £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+MODE CHANGE, REG MODE (00:05)                   
+SALE ID: 1000209                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:04 000209        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+      CANCEL                      £-0.01       
+SALE FINALISED, ID: 1000209                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:05          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:06            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:06)                   
+SALE ID: 1000210                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:06 000210        
+1     MISC                         £0.04       
+      Suspend                      £0.04       
+          * CLERK INTERRUPTED *                 
+SALE ID: 1000210                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:06 000210        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.04 No: 1                             
+      Resume                       £0.04       
+      CANCEL                      £-0.04       
+SALE FINALISED, ID: 1000210                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:06          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:07            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:07)                   
+SALE ID: 1000211                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:07 000211        
+1     GROCERY                      £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+MODE CHANGE, REG MODE (00:08)                   
+SALE ID: 1000211                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:07 000211        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+      CANCEL                      £-0.01       
+SALE FINALISED, ID: 1000211                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:08          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:09            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:09)                   
+SALE ID: 1000212                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:09 000212        
+1     GROCERY                      £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+MODE CHANGE, REG MODE (00:10)                   
+SALE ID: 1000212                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:09 000212        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+      CANCEL                      £-0.01       
+SALE FINALISED, ID: 1000212                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:10          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:11            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:12)                   
+SALE ID: 1000213                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:12 000213        
+1     GROCERY                      £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+SALE ID: 1000213                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:12 000213        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+      CANCEL                      £-0.01       
+SALE FINALISED, ID: 1000213                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:12          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:14            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:14)                   
+SALE ID: 1000214                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:14 000214        
+1     MISC                         £0.04       
+      Suspend                      £0.04       
+          * CLERK INTERRUPTED *                 
+MODE CHANGE, REG MODE (00:14)                   
+SALE ID: 1000214                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:14 000214        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.04 No: 1                             
+      Resume                       £0.04       
+      CANCEL                      £-0.04       
+SALE FINALISED, ID: 1000214                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:15          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:16)                   
+MODE CHANGE, REG MODE (00:16)                   
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:16          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:16)                   
+SALE ID: 1000215                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:17 000215        
+1     GROCERY                      £0.01       
+1     GROCERY                      £0.05       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.06§d      
+      £10                         £10.00      
+      §DCHANGE§d                 £9.94       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.06   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000215                     
+SALE ID: 1000216                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:17 000216        
+1     GROCERY                      £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      £2                           £2.00      
+      §DCHANGE§d                 £1.99       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000216                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:17          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:20            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:20)                   
+SALE ID: 1000217                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:21 000217        
+1     MISC                         £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+MODE CHANGE, REG MODE (00:21)                   
+SALE ID: 1000217                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:21 000217        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.01§d      
+      £5                           £5.00      
+      §DCHANGE§d                 £4.99       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.01   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000217                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:21          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:23)                   
+SALE ID: 1000218                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:23 000218        
+1     GROCERY                      £0.01       
+      Suspend                      £0.01       
+          * CLERK INTERRUPTED *                 
+MODE CHANGE, REG MODE (00:24)                   
+SALE ID: 1000218                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:23 000218        
+ FROM: ID#1 CT: 1                               
+ PBAL: £0.01 No: 1                             
+      Resume                       £0.01       
+      Error Corr                                
+-1    GROCERY                     £-0.01       
+      CANCEL                       £0.00       
+SALE FINALISED, ID: 1000218                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:24          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:33            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:33)                   
+SALE ID: 1000219                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:33 000219        
+1     GROCERY                      £0.04       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.04§d      
+      £2                           £2.00      
+      §DCHANGE§d                 £1.96       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000219                     
+SALE ID: 1000220                                
+H. ALTUN          REG               ID#1        
+TUESDAY 11 MAY 2021         00:33 000220        
+1     GROCERY                      £0.04       
+1     GROCERY                      £0.05       
+1     MISC                         £0.04       
+1     SOFT DRINKS                  £0.04       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     ORANGE                       £0.39       
+1     AVOCADO                      £1.19       
+1     BLUEBERRY                    £1.29       
+1     FIGS TURKISH                 £0.59       
+1     COCONUT                      £0.59       
+1     GUAVA                        £0.99       
+1     DAIRY / BAKERY               £0.07       
+1     ALCOHOL                      £0.07       
+1     SOFT DRINKS                  £0.07       
+1     MISC                         £0.04       
+1     GROCERY                      £0.04       
+      CANCEL                      £-7.46       
+SALE FINALISED, ID: 1000220                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:35          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 11/05 - 00:36            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:36)                   
+SALE ID: 1000221                                
+CLERK 7           REG               ID#1        
+TUESDAY 11 MAY 2021         00:36 000221        
+1     DAIRY / BAKERY               £0.07       
+1     ALCOHOL                      £0.07       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.14§d      
+      £50                         £50.00      
+      §DCHANGE§d                £49.86       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.14   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000221                     
+SALE ID: 1000222                                
+CLERK 7           REG               ID#1        
+TUESDAY 11 MAY 2021         00:36 000222        
+1     DAIRY / BAKERY               £0.04       
+1     ALCOHOL                      £0.04       
+1     MISC                         £0.04       
+1     SOFT DRINKS                  £0.04       
+1     COCONUT                      £0.59       
+1     COCONUT                      £0.59       
+1     COCONUT                      £0.59       
+1     COCONUT                      £0.59       
+1     GRAPEFRUIT                   £0.69       
+1     GRAPEFRUIT                   £0.69       
+1     GRAPEFRUIT                   £0.69       
+1     GRAPEFRUIT                   £0.69       
+1     GRAPEFRUIT                   £0.69       
+1     GRAPEFRUIT                   £0.69       
+1     GRAPEFRUIT                   £0.69       
+1     GRAPEFRUIT                   £0.69       
+1     FIGS TURKISH                 £0.59       
+1     FIGS TURKISH                 £0.59       
+1     FIGS TURKISH                 £0.59       
+1     FIGS TURKISH                 £0.59       
+1     FIGS TURKISH                 £0.59       
+1     GUAVA                        £0.99       
+1     GUAVA                        £0.99       
+1     GUAVA                        £0.99       
+1     GUAVA                        £0.99       
+1     CHOW CHOW                    £1.99       
+1     CHOW CHOW                    £1.99       
+1     CHOW CHOW                    £1.99       
+1     CHOW CHOW                    £1.99       
+1     ORANGE                       £0.39       
+1     ORANGE                       £0.39       
+1     ORANGE                       £0.39       
+1     ORANGE                       £0.39       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     GROCERY                      £0.09       
+1     ALCOHOL                      £0.09       
+1     SOFT DRINKS                  £0.09       
+1     SOFT DRINKS                  £0.06       
+1     SOFT DRINKS                  £0.06       
+1     ALCOHOL                      £0.06       
+      CANCEL                     £-27.37       
+SALE FINALISED, ID: 1000222                     
+ TOUCHPOINT CLOSED DOWN: 11/05 - 00:37          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

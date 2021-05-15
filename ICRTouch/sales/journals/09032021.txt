@@ -1,0 +1,40 @@
+MODE CHANGE, PROGRAM 3 MODE (03:11)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (03:11)                   
+MODE CHANGE, PROGRAM 3 MODE (03:12)             
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 999 TO: 999                             
+ FILE 3                                         
+ Level Names                                    
+MODE CHANGE, REG MODE (03:12)                   
+SALE ID: 1000004                                
+Chris             REG               ID#1        
+TUESDAY 9 MARCH 2021        03:12 000004        
+1     TEST                         £9.99       
+      CANCEL                      £-9.99       
+SALE FINALISED, ID: 1000004                     
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (03:12)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (03:13)                   
+SALE ID: 1000005                                
+Chris             REG               ID#1        
+TUESDAY 9 MARCH 2021        03:13 000005        
+1     TEST                         £9.99       
+1     TEST                         £9.99       
+1     TEST                         £9.99       
+      CANCEL                     £-29.97       
+SALE FINALISED, ID: 1000005                     
+MODE CHANGE, PROGRAM 3 MODE (08:01)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, PROGRAM 3 MODE (09:19)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, PROGRAM 3 MODE (09:20)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (13:24)                   

@@ -1,0 +1,272 @@
+MODE CHANGE, REG MODE (13:10)                   
+MODE CHANGE, PROGRAM 4 MODE (15:01)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:07)                   
+ICRTouch v70.13 START: 28/03 - 15:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, MANAGER MODE (15:16)               
+MODE CHANGE, REG MODE (15:16)                   
+MODE CHANGE, PROGRAM 6 MODE (15:17)             
+MODE CHANGE, PROGRAM 4 MODE (15:17)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:21)                   
+ICRTouch v70.13 START: 28/03 - 15:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:23)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ICRTouch v70.13 START: 28/03 - 15:39            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:39)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:40)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 2 MODE (15:40)             
+CHANGED FILES:                                  
+ Level Names                                    
+ICRTouch v70.13 START: 28/03 - 15:41            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:42)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, MANAGER MODE (15:42)               
+MODE CHANGE, REG MODE (15:42)                   
+MODE CHANGE, MANAGER MODE (15:42)               
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (15:42)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, MANAGER MODE (15:44)               
+Keyboard level 11 copied to 13to25              
+MODE CHANGE, PROGRAM 4 MODE (15:44)             
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Status Key                                     
+ Keyboard                                       
+ Keyboard 2                                     
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, PROGRAM 2 MODE (15:51)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, PROGRAM 4 MODE (15:52)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, PROGRAM 4 MODE (15:52)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, PROGRAM 4 MODE (15:54)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (15:54)                   
+MODE CHANGE, PROGRAM 4 MODE (15:54)             
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 60002 TO: 60020                         
+ Level Names                                    
+ Status Key                                     
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (16:03)                   
+MODE CHANGE, PROGRAM 4 MODE (16:04)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (16:06)                   
+ICRTouch v70.13 START: 28/03 - 16:06            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (16:06)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (16:06)                   
+ICRTouch v70.13 START: 28/03 - 16:10            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, MANAGER MODE (16:10)               
+Keyboard level 10 copied to 25to25              
+MODE CHANGE, PROGRAM 4 MODE (16:10)             
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 60021 TO: 60024                         
+ Level Names                                    
+ Finalise Key                                   
+ Keyboard                                       
+ Keyboard 2                                     
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, PROGRAM 3 MODE (16:19)             
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ PLU                                            
+  FROM: 60025 TO: 60025                         
+ Level Names                                    
+ Finalise Key                                   
+ Status Key                                     
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+ System Flags                                   
+MODE CHANGE, PROGRAM 2 MODE (16:26)             
+CHANGED FILES:                                  
+ Level Names                                    
+MODE CHANGE, REG MODE (16:26)                   
+MODE CHANGE, PROGRAM 4 MODE (16:26)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Finalise Key                                   
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, PROGRAM 2 MODE (16:28)             
+CHANGED FILES:                                  
+ Level Names                                    
+ TOUCHPOINT CLOSED DOWN: 28/03 - 16:29          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 28/03 - 16:29            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 2 MODE (16:29)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (16:31)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (16:32)                   
+MODE CHANGE, REG MODE (16:32)                   
+ICRTouch v70.13 START: 28/03 - 16:32            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (16:32)             
+**Import Product Groups                         
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Level Names                                    
+ Status Key                                     
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (16:32)                   
+MODE CHANGE, REG MODE (16:33)                   
+MODE CHANGE, PROGRAM 2 MODE (16:33)             
+CHANGED FILES:                                  
+ Printer Logos                                  
+MODE CHANGE, REG MODE (16:34)                   
+SALE ID: 1000095                                
+H. ALTUN          REG               ID#1        
+SUNDAY 28 MARCH 2021        16:34 000095        
+1     MISC                         £4.00       
+      CANCEL                      £-4.00       
+SALE FINALISED, ID: 1000095                     
+SALE ID: 1000096                                
+H. ALTUN          REG               ID#1        
+SUNDAY 28 MARCH 2021        16:34 000096        
+1     LOTTO / BUS                  £5.99       
+1     FROZEN / ICE CREAM           £5.44       
+                                                
+                        2 No                    
+      TOTAL                 §D£11.43§d       
+      £20                         £20.00      
+      §DCHANGE§d                 £8.57       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £11.43   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000096                     
+ICRTouch v70.13 START: 28/03 - 16:36            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, MANAGER MODE (16:36)               
+ TOUCHPOINT CLOSED DOWN: 28/03 - 17:27          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

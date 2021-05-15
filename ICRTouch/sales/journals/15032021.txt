@@ -1,0 +1,7 @@
+ICRTouch v70.13 START: 15/03 - 12:12            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (12:12)                   
+ICRTouch v70.13 START: 15/03 - 12:53            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        

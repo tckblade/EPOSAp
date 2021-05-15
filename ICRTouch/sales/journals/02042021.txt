@@ -1,0 +1,19 @@
+ICRTouch v70.13 START: 02/04 - 00:53            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:53)                   
+SALE ID: 1000108                                
+H. ALTUN          REG               ID#1        
+FRIDAY 2 APRIL 2021         00:53 000108        
+1     ORANGE                       £0.39       
+1     ORANGE                       £0.39       
+1     ORANGE                       £0.39       
+1     ORANGE                       £0.39       
+1     ORANGE                       £0.39       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     PLANTAIN                     £0.49       
+1     CHOW CHOW                    £1.99       
+      CANCEL                      £-5.90       
+SALE FINALISED, ID: 1000108                     

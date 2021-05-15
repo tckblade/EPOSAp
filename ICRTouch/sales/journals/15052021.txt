@@ -1,0 +1,916 @@
+ICRTouch v70.13 START: 15/05 - 00:05            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:05)                   
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:06          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:06            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (00:06)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (00:08)                   
+SALE ID: 1000232                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:08 000232        
+1     ALCOHOL                      £1.25       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.25§d      
+      CASH                         £1.25       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000232                     
+SALE ID: 1000233                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:08 000233        
+1     SOFT DRINKS                  £1.25       
+2     ALCOHOL                      £0.10       
+      SUBTOTAL                     £1.35       
+                                                
+                        3 No                    
+      TOTAL                   §D£1.35§d      
+      CASH                         £1.35       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.35   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000233                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:08          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:11            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:11)                   
+SALE ID: 1000234                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:12 000234        
+1     ALCOHOL                      £1.25       
+1     ALCOHOL                      £1.00       
+      SUBTOTAL                     £2.25       
+                                                
+                        2 No                    
+      TOTAL                   §D£2.25§d      
+      CASH                         £2.25       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000234                     
+MODE CHANGE, REG MODE (00:17)                   
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:18          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:19            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:19)                   
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:22          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:22)                   
+SALE ID: 1000235                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:22 000235        
+1     ALCOHOL                      £0.23       
+1     ALCOHOL                      £0.36       
+1     GROCERY                      £0.35       
+                                                
+                        3 No                    
+      TOTAL                   §D£0.94§d      
+      CASH                         £0.94       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.94   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000235                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:23          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:25            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:25)                   
+SALE ID: 1000236                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:25 000236        
+1     ALCOHOL                      £1.25       
+1     ALCOHOL                    £555.55       
+                                                
+                        2 No                    
+      TOTAL               §D£556.80§d        
+      CREDIT CARD                £556.80       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)       £556.80   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000236                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:26          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:26            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:26)                   
+SALE ID: 1000237                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:27 000237        
+1     ALCOHOL                      £1.11       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.11§d      
+      CASH                         £1.11       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.11   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000237                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:27          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:28            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:28)                   
+SALE ID: 1000238                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:28 000238        
+1     ALCOHOL                      £1.00       
+1     ALCOHOL                      £8.00       
+1     ALCOHOL                      £2.00       
+2     ALCOHOL                      £0.10       
+                                                
+                        5 No                    
+      TOTAL                 §D£11.10§d       
+      CASH                        £11.10       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £11.10   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000238                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:29          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:33            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:33)                   
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:33          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:34            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:34)                   
+MODE CHANGE, PROGRAM 4 MODE (00:34)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (00:35)                   
+SALE ID: 1000239                                
+CLERK 4           REG               ID#1        
+SATURDAY 15 MAY 2021        00:35 000239        
+1     ALCOHOL                      £1.25       
+      Error Corr                                
+-1    ALCOHOL                     £-1.25       
+      CANCEL                       £0.00       
+SALE FINALISED, ID: 1000239                     
+SALE ID: 1000240                                
+CLERK 4           REG               ID#1        
+SATURDAY 15 MAY 2021        00:35 000240        
+1     ALCOHOL                      £0.25       
+45    GROCERY                     £23.40       
+      SUBTOTAL                    £23.65       
+                                                
+                        46 No                   
+      TOTAL                 §D£23.65§d       
+      CASH                        £23.65       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £23.65   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000240                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:36          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:36            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:36)                   
+SALE ID: 1000241                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:37 000241        
+1     ALCOHOL                  £10000.00       
+1     ALCOHOL                      £1.00       
+1     ALCOHOL                      £1.25       
+1     ALCOHOL                      £1.25       
+                                                
+                        4 No                    
+      TOTAL           §D£10003.50§d          
+      CASH                     £10003.50       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)     £10003.50   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000241                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:37          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:38            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:38)                   
+SALE ID: 1000242                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:38 000242        
+1     ALCOHOL                      £0.12       
+1     ALCOHOL                      £6.35       
+1     GROCERY                      £5.68       
+                                                
+                        3 No                    
+      TOTAL                 §D£12.15§d       
+      CASH                        £12.15       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £12.15   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000242                     
+SALE ID: 1000243                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:39 000243        
+1     ALCOHOL                      £1.25       
+1     GROCERY                      £1.25       
+1     ALCOHOL                      £4.56       
+23    ALCOHOL                     £11.50       
+                                                
+                        26 No                   
+      TOTAL                 §D£18.56§d       
+      CASH                        £18.56       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £18.56   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000243                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:40          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:40            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:40)                   
+SALE ID: 1000244                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:41 000244        
+1     ALCOHOL                      £1.00       
+1     ALCOHOL                      £1.00       
+                                                
+                        2 No                    
+      TOTAL                   §D£2.00§d      
+      CASH                         £2.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000244                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:41          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:41            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:41)                   
+SALE ID: 1000245                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:41 000245        
+1     ALCOHOL                    £100.00       
+1     ALCOHOL                      £0.25       
+1     ALCOHOL                      £0.25       
+1     ALCOHOL                      £0.50       
+                                                
+                        4 No                    
+      TOTAL               §D£101.00§d        
+      CASH                       £101.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)       £101.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000245                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:42          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:43            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:43)                   
+SALE ID: 1000246                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:43 000246        
+1     ALCOHOL                      £0.01       
+1     SOFT DRINKS                  £0.05       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.06§d      
+      CASH                         £0.06       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.06   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000246                     
+SALE ID: 1000247                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:43 000247        
+1     ALCOHOL                      £0.01       
+1     SOFT DRINKS                  £0.03       
+                                                
+                        2 No                    
+      TOTAL                   §D£0.04§d      
+      £5                           £5.00      
+      §DCHANGE§d                 £4.96       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.04   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000247                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:43          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:43            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:43)                   
+SALE ID: 1000248                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        00:43 000248        
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £0.85       
+1     ALCOHOL                      £0.89       
+1     ALCOHOL                      £0.96       
+1     GROCERY                      £0.98       
+1     ALCOHOL                      £0.47       
+2     ALCOHOL                      £0.10       
+                                                
+                        17 No                   
+      TOTAL                 §D£24.25§d       
+      CASH                        £24.25       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £24.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000248                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:46          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 00:47            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:47)                   
+C5 ALLERGEN DISCLAIMER                          
+SALE ID: 1000249                                
+CLERK 5           REG               ID#1        
+SATURDAY 15 MAY 2021        00:48 000249        
+1     ALCOHOL                      £1.00       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.00§d      
+      CASH                         £1.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000249                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 00:48          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+MODE CHANGE, REG MODE (01:30)                   
+SALE ID: 1000250                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        01:30 000250        
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+                                                
+                        3 No                    
+      TOTAL                   §D£6.00§d      
+      £2                           £2.00      
+      SHORT                        £4.00       
+      £1                           £1.00      
+      SHORT                        £3.00       
+      CASH                         £3.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £6.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000250                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 01:33          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 01:43            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (01:43)                   
+SALE ID: 1000251                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        01:43 000251        
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £3.00       
+                                                
+                        3 No                    
+      TOTAL                   §D£7.00§d      
+      CREDIT CARD                  £7.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £7.00   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000251                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 01:43          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:10            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:10)                   
+SALE ID: 1000252                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:10 000252        
+1     GROCERY                      £2.00       
+1     GROCERY                      £3.00       
+1     GROCERY                      £8.00       
+2     GROCERY                      £0.16       
+1     GROCERY                      £5.00       
+                                                
+                        6 No                    
+      TOTAL                 §D£18.16§d       
+      CASH                        £18.16       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £18.16   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000252                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:11          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:22            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:22)                   
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:22          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:23            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:23)                   
+SALE ID: 1000253                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:23 000253        
+1     ALCOHOL                      £1.00       
+1     ALCOHOL                      £3.00       
+1     ALCOHOL                      £6.00       
+2     ALCOHOL                      £0.10       
+                                                
+                        5 No                    
+      TOTAL                 §D£10.10§d       
+      CASH                        £10.10       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £10.10   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000253                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:24          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:25            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:25)                   
+SALE ID: 1000254                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:25 000254        
+1     ALCOHOL                      £1.00       
+1     ALCOHOL                      £3.00       
+2     ALCOHOL                      £0.10       
+                                                
+                        4 No                    
+      TOTAL                   §D£4.10§d      
+      CREDIT CARD                  £4.10       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £4.10   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000254                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:26          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:26            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:26)                   
+SALE ID: 1000255                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:26 000255        
+1     ALCOHOL                      £1.00       
+1     ALCOHOL                      £1.00       
+1     ALCOHOL                      £6.00       
+1     ALCOHOL                      £5.00       
+2     ALCOHOL                      £0.10       
+1     ALCOHOL                      £6.00       
+                                                
+                        7 No                    
+      TOTAL                 §D£19.10§d       
+      CASH                        £19.10       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £19.10   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000255                     
+MODE CHANGE, REG MODE (02:27)                   
+MODE CHANGE, REG MODE (02:27)                   
+MODE CHANGE, REG MODE (02:27)                   
+MODE CHANGE, REG MODE (02:27)                   
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:27          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:45            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:45)                   
+SALE ID: 1000256                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:45 000256        
+1     ALCOHOL                      £1.22       
+1     ALCOHOL                      £6.33       
+                                                
+                        2 No                    
+      TOTAL                   §D£7.55§d      
+      CASH                         £7.55       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £7.55   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000256                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:45          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:47            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:47)                   
+MODE CHANGE, REG MODE (02:47)                   
+SALE ID: 1000257                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:47 000257        
+1     ALCOHOL                      £0.55       
+1     GROCERY                      £4.52       
+2     ALCOHOL                      £0.10       
+1     ALCOHOL                      £0.96       
+                                                
+                        5 No                    
+      TOTAL                   §D£6.13§d      
+      CASH                         £6.13       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £6.13   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000257                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:48          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:53            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:53)                   
+SALE ID: 1000258                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:54 000258        
+1     ALCOHOL                      £0.12       
+1     ALCOHOL                      £0.63       
+1     ALCOHOL                      £0.98       
+2     ALCOHOL                      £0.10       
+1     ALCOHOL                      £0.35       
+                                                
+                        6 No                    
+      TOTAL                   §D£2.18§d      
+      CREDIT CARD                  £2.18       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.18   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000258                     
+SALE ID: 1000259                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:54 000259        
+1     ALCOHOL                      £0.56       
+      SUBTOTAL                     £0.56       
+      SUBTOTAL                     £0.56       
+      SUBTOTAL                     £0.56       
+1     ALCOHOL                      £2.35       
+1     ALCOHOL                      £0.96       
+                                                
+                        3 No                    
+      TOTAL                   §D£3.87§d      
+      CASH                         £3.87       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £3.87   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000259                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:55          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 02:56            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:56)                   
+SALE ID: 1000260                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        02:56 000260        
+1     ALCOHOL                      £0.52       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.52§d      
+      CASH                         £0.52       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.52   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000260                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 02:57          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 03:02            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:02)                   
+SALE ID: 1000261                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        03:02 000261        
+1     ALCOHOL                      £0.25       
+1     ALCOHOL                      £0.56       
+1     ALCOHOL                      £8.96       
+                                                
+                        3 No                    
+      TOTAL                   §D£9.77§d      
+      CASH                         £9.77       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £9.77   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000261                     
+MODE CHANGE, REG MODE (03:02)                   
+ TOUCHPOINT CLOSED DOWN: 15/05 - 03:02          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 03:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:04)                   
+SALE ID: 1000262                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        03:04 000262        
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £0.63       
+2     ALCOHOL                      £0.16       
+                                                
+                        4 No                    
+      TOTAL                   §D£2.79§d      
+      CASH                         £2.79       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.79   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000262                     
+MODE CHANGE, MANAGER MODE (03:04)               
+MODE CHANGE, MANAGER MODE (03:05)               
+MODE CHANGE, PROGRAM 3 MODE (03:05)             
+CHANGED FILES:                                  
+ Level Names                                    
+ TOUCHPOINT CLOSED DOWN: 15/05 - 03:08          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 03:09            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:09)                   
+SALE ID: 1000263                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        03:09 000263        
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £3.00       
+2     ALCOHOL                      £0.10       
+      SUBTOTAL                     £5.10       
+                                                
+                        4 No                    
+      TOTAL                   §D£5.10§d      
+      CASH                         £5.10       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £5.10   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000263                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 03:09          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 03:11            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:11)                   
+SALE ID: 1000264                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        03:11 000264        
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £0.56       
+2     ALCOHOL                      £0.06       
+                                                
+                        4 No                    
+      TOTAL                   §D£2.62§d      
+      CASH                         £2.62       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.62   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000264                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 03:11          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 03:12            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:12)                   
+SALE ID: 1000265                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        03:12 000265        
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £0.69       
+1     ALCOHOL                      £0.98       
+1     ALCOHOL                      £0.78       
+                                                
+                        4 No                    
+      TOTAL                   §D£4.45§d      
+      CASH                         £4.45       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £4.45   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000265                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 03:12          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 03:14            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:14)                   
+SALE ID: 1000266                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        03:14 000266        
+1     ALCOHOL                      £0.52       
+1     ALCOHOL                      £0.96       
+1     ALCOHOL                      £0.78       
+                                                
+                        3 No                    
+      TOTAL                   §D£2.26§d      
+      CASH                         £2.26       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.26   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000266                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 03:15          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 03:18            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:18)                   
+SALE ID: 1000267                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        03:18 000267        
+1     ALCOHOL                      £2.00       
+1     ALCOHOL                      £0.63       
+                                                
+                        2 No                    
+      TOTAL                   §D£2.63§d      
+      CASH                         £2.63       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.63   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000267                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 03:19          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 15/05 - 03:19            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:19)                   
+SALE ID: 1000268                                
+H. ALTUN          REG               ID#1        
+SATURDAY 15 MAY 2021        03:20 000268        
+1     ALCOHOL                      £0.58       
+1     ALCOHOL                     £36.69       
+1     ALCOHOL                      £0.55       
+                                                
+                        3 No                    
+      TOTAL                 §D£37.82§d       
+      CASH                        £37.82       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £37.82   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000268                     
+ TOUCHPOINT CLOSED DOWN: 15/05 - 03:20          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

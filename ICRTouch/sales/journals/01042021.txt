@@ -1,0 +1,30 @@
+MODE CHANGE, REG MODE (10:17)                   
+MODE CHANGE, REG MODE (22:33)                   
+MODE CHANGE, REG MODE (22:35)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (22:36)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (23:28)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (23:28)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (23:46)                   
+SALE ID: 1000107                                
+H. ALTUN          REG               ID#1        
+THURSDAY 1 APRIL 2021       23:46 000107        
+1     ARTICHOKE                    £1.29       
+1     ASPARAGUS                    £2.99       
+      Error Corr                                
+-1    ASPARAGUS                   £-2.99       
+      CANCEL                      £-1.29       
+SALE FINALISED, ID: 1000107                     
+ TOUCHPOINT CLOSED DOWN: 01/04 - 23:47          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

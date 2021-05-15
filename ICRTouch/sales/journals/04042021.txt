@@ -1,0 +1,164 @@
+ICRTouch v70.13 START: 04/04 - 02:21            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:21)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (02:21)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (02:24)                   
+MODE CHANGE, PROGRAM 3 MODE (02:26)             
+CHANGED FILES:                                  
+ Level Names                                    
+ TOUCHPOINT CLOSED DOWN: 04/04 - 02:26          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 04/04 - 02:45            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:45)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (02:46)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:11)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (03:12)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:15)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (03:15)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:18)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (03:26)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:41)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (03:43)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:47)                   
+SALE ID: 1000116                                
+H. ALTUN          REG               ID#1        
+SUNDAY 4 APRIL 2021         03:47 000116        
+1     GROCERY                      £1.25       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.25§d      
+      CASH                         £1.25       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000116                     
+MODE CHANGE, PROGRAM 4 MODE (03:47)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (03:55)                   
+ TOUCHPOINT CLOSED DOWN: 04/04 - 03:58          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 04/04 - 03:59            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:59)                   
+ TOUCHPOINT CLOSED DOWN: 04/04 - 03:59          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 04/04 - 04:00            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (04:00)                   
+SALE ID: 1000117                                
+H. ALTUN          REG               ID#1        
+SUNDAY 4 APRIL 2021         04:00 000117        
+1     TOBACCO                      £1.25       
+1     TOBACCO                      £1.45       
+1     ALCOHOL                      £1.78       
+      SUBTOTAL                     £4.48       
+                                                
+                        3 No                    
+      TOTAL                   §D£4.48§d      
+      CREDIT CARD                  £4.48       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £4.48   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000117                     
+MODE CHANGE, PROGRAM 4 MODE (04:04)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (04:07)                   
+SALE ID: 1000118                                
+H. ALTUN          REG               ID#1        
+SUNDAY 4 APRIL 2021         04:08 000118        
+1     DAIRY / BAKERY               £1.25       
+      -10% -%                     £-0.13       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.12§d      
+      CASH                         £1.12       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.12   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000118                     
+MODE CHANGE, PROGRAM 4 MODE (04:08)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ TOUCHPOINT CLOSED DOWN: 04/04 - 04:13          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 04/04 - 23:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (23:16)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 3 MODE (23:16)             
+CHANGED FILES:                                  
+ Level Names                                    
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (23:17)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Keyboard                                       
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (23:47)                   
+ TOUCHPOINT CLOSED DOWN: 04/04 - 23:48          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

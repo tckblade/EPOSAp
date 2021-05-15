@@ -1,0 +1,360 @@
+/**************************************************************
+JSON library for Etal
+(c) 2013 ICRTouch LLP
+
+converts tables,arrays,strings,ints,floats,bools and nulls to 
+a string of JSON
+and back
+
+v1.1
+
+bug fixes:
+strings of a single character could be eaten while deserialising
+**************************************************************/
+local bDebugPrinting = false;
+function JSONSerialise(data)
+{
+    local szOutput = "";
+    if (typeof data == "table")
+    {
+        // tables have {} around them, each thing in them should have a name as a string with "" around it and a value of some sort
+        szOutput += "{";
+        local bFirst = true;
+        foreach (index,value in data)
+        {
+            if(!bFirst) szOutput += ",";
+            szOutput += "\""+index+"\"" + ":" + JSONSerialise(value);
+            if(bFirst) bFirst = false;
+        }
+        szOutput += "}";
+    }
+    else if (typeof data == "array")
+    {
+        // arrays are , separated and surrounded by []
+        szOutput += "[";
+        local bFirst = true;
+        for (local nCount = 0; nCount < data.len(); nCount++)
+        {
+            if(!bFirst) szOutput += ",";
+            szOutput += JSONSerialise(data[nCount]);
+            if(bFirst) bFirst = false;
+        }
+        szOutput += "]";
+    }
+    else if (typeof data == "string")
+    {
+        // strings should have "" around them
+        szOutput += "\""+data+"\"";
+    }
+    else if (typeof data == "integer" || typeof data == "float")
+    {
+        // ints are just the number
+        szOutput += data;
+    }
+    else if (typeof data == "bool")
+    {
+        // bools are literal true or false
+        szOutput += data;
+    }
+    else if (typeof data == "null")
+    {
+        // nulls are literal null
+        szOutput += "null";
+    }
+    return szOutput;
+}
+
+function JSONDeSerialise(szData)
+{
+    bDebugPrinting = ICR_GetLocalUserData("bDebugPrinting");
+    // somewhere to put the data
+    local Output = null;
+    // something to chop it up
+    local tokeniser = Tokeniser(szData);
+
+    local thisToken;
+    // start reading :)
+    thisToken = tokeniser.GetNextToken();
+    if(thisToken != "{")
+    {
+        if(bDebugPrinting)print("error at "+tokeniser.nPosition);
+        return null;
+    }
+    Output = GetTable(tokeniser);
+    return Output;
+}
+
+function GetTable(tokeniser)
+{
+    local Output = {};
+    local thisToken = tokeniser.GetNextToken();
+    // while we're still in this table
+    while (thisToken != "}" && tokeniser.EOS == false)
+    {
+        local szIdent = thisToken;        
+        local thisThing;
+        thisToken = tokeniser.GetNextToken();
+        // skip the :
+        thisToken = tokeniser.GetNextToken();
+        // what is it?
+        if (typeof(thisToken) != "string")
+        {
+            // if it's not a string then it's a bool/integer/float etc and can be stuck straight in
+            thisThing = thisToken;
+        }
+        else
+        {
+            // it's a string of some sort
+            if(thisToken == "{")
+            {
+                // get that table :)
+                thisThing = GetTable(tokeniser);
+            }
+            else if(thisToken == "[")    // start of array
+            {
+                thisThing = GetArray(tokeniser);
+            }
+            else
+            {
+                // string
+                thisThing = thisToken;
+            }
+            
+        }
+        // insert whatever it was into the table
+        Output[szIdent] <- thisThing;
+        // grab the next thing
+        thisToken = tokeniser.GetNextToken();
+        // if it was a , then get the next one
+        if (thisToken == ",")
+        {
+            thisToken = tokeniser.GetNextToken();
+        }
+    }
+    return Output;
+}
+
+function GetArray(tokeniser)
+{
+    local Output = [];
+    local thisToken = tokeniser.GetNextToken();
+    // while we're still in this table
+    while (thisToken != "]" && tokeniser.EOS == false)
+    {
+        local thisThing;
+        // what is it?
+        if (typeof(thisToken) != "string")
+        {
+            // if it's not a string then it's a bool/integer/float etc and can be stuck straight in
+            thisThing = thisToken;
+        }
+        else
+        {
+            // it's a string of some sort
+            if(thisToken == "{")
+            {
+                // get that table :)
+                thisThing = GetTable(tokeniser);
+            }
+            else if(thisToken == "[")    // start of array
+            {
+                thisThing = GetArray(tokeniser);
+            }
+            else
+            {
+                // string
+                thisThing = thisToken;
+            }
+        }
+        // insert whatever it was into the table
+        Output.append(thisThing);
+        // grab the next thing
+        thisToken = tokeniser.GetNextToken();
+        // if it was a , then get the next one
+        if (thisToken == ",")
+        {
+            thisToken = tokeniser.GetNextToken();
+        }
+    }
+    return Output;
+}
+
+class Tokeniser
+{
+    szData = "";
+    nPosition = 0;
+    EOS = false;
+    
+    function constructor(szInputData)
+    {
+        szData = szInputData;
+        nPosition = 0;
+        if(bDebugPrinting)print("created tokeniser for stream: "+szInputData);
+    }
+    
+    function GetNextToken()
+    {    
+        //split at " { : } [ ] ,
+        local bInToken = false;
+        local token = null
+        // are we at the end of the string?
+        if (szData.len() <= nPosition)
+        {
+            // Oh Teh Noes!!!1
+            if(bDebugPrinting)print("end of stream");
+            this.EOS = true;
+            return null;
+        }
+        // not run out of string yet.
+        // grab the next character (skipping white space)
+        local nThisChar = 0;
+        do 
+        {
+            nThisChar = szData[nPosition++];
+        }while(nThisChar <= 32) // we have decided that any control characters at the start of a token may as well count as white space since none of them are valid anyway
+        // is it a token in and of itself?
+        switch (nThisChar)
+        {
+            case '{':
+            case '}':
+            case '[':
+            case ']':
+            case ',':
+            case ':':
+            return nThisChar.tochar();
+            default:
+        }
+        // nope, what is it then?
+        local szToken = "";
+        // are we reading a string?
+        if (nThisChar == '"')
+        {
+            nThisChar = szData[nPosition++];
+            
+            local bReading = nThisChar != '"';
+            while (bReading)
+            {
+                if(nThisChar == '\\')
+                {
+                    // escaped character
+                    local nNextChar = szData[nPosition++];
+                    switch(nNextChar)
+                    {
+                        case '"':
+                            // \"
+                        case '\\':
+                            // \\
+                        case '/':
+                            // \/
+                            nThisChar = nNextChar;
+                            break;
+                        case 'b':
+                            // \b
+                            nThisChar = '\b';
+                            break;
+                        case 'f':
+                            // \f
+                            nThisChar = '\f';
+                            break;
+                        case 'n':
+                            // \n
+                            nThisChar = '\n';
+                            break;
+                        case 'r':
+                            nThisChar = '\r';
+                            break;
+                        case 't':
+                            // \t
+                            nThisChar = '\t';
+                            break;
+                        case 'u':
+                            // unicode character..
+                            // read the next bit to see which character it is
+                            // it's a 4 digit hex number as ascii characters
+                            // grab the 4 digits
+                            local nibble1 = szData[nPosition++] - 48;
+                            local nibble2 = szData[nPosition++] - 48;
+                            local nibble3 = szData[nPosition++] - 48;
+                            local nibble4 = szData[nPosition++] - 48;
+                            // if they're not 0-9 adjust
+                            nibble1 = nibble1 > 9 ? nibble1 - 7 : nibble1;
+                            nibble2 = nibble2 > 9 ? nibble2 - 7 : nibble2;
+                            nibble3 = nibble3 > 9 ? nibble3 - 7 : nibble3;
+                            nibble4 = nibble4 > 9 ? nibble4 - 7 : nibble4;
+                            // shift and add them together
+                            nibble1 = nibble1 << 12;
+                            nibble2 = nibble2 << 8;
+                            nibble3 = nibble3 << 4;
+                            nThisChar = nibble1+nibble2+nibble3+nibble4;
+                            break;
+                    }
+                }
+                szToken += nThisChar.tochar();
+                nThisChar = szData[nPosition++];
+                bReading = nThisChar != '"';
+            }
+            
+            token = szToken;
+        }
+        // are we reading a bool?
+        else if(nThisChar == 't' || nThisChar == 'f')
+        {
+            szToken += nThisChar.tochar();
+            nThisChar = szData[nPosition++];
+            while (nThisChar == 'r' || nThisChar == 'u' || nThisChar == 'e' || nThisChar == 'a' ||nThisChar == 'l' ||nThisChar == 's')
+            {
+                szToken += nThisChar.tochar();
+                nThisChar = szData[nPosition++];
+            }
+            if (szToken == "true")
+            {
+                token = true;
+                // wind the position back one as it's gone too far
+                nPosition--;
+            }
+            else if (szToken == "false")
+            {
+                token = false;
+                // wind the position back one as it's gone too far
+                nPosition--;
+            }
+        }
+        // are we reading a null?
+        else if(nThisChar == 'n')
+        {
+            szToken += nThisChar.tochar();
+            nThisChar = szData[nPosition++];
+            while (nThisChar == 'u' || nThisChar == 'l')
+            {
+                szToken += nThisChar.tochar();
+                nThisChar = szData[nPosition++];
+            }
+            if (szToken == "null")
+            {
+                token = null;
+                // wind the position back one as it's gone too far
+                nPosition--;
+            }
+        }
+        // a number?
+        else if(nThisChar == '-' || (nThisChar >= 48 && nThisChar <= 57))
+        {
+            szToken += nThisChar.tochar();
+            nThisChar = szData[nPosition++];
+            while ((nThisChar >= 48 && nThisChar <= 57) || nThisChar == '.')
+            {
+                szToken += nThisChar.tochar();
+                nThisChar = szData[nPosition++];
+            }
+            
+            local tempInt = szToken.tointeger();
+            local tempFloat = szToken.tofloat();
+            token = tempInt == tempFloat ? tempInt : tempFloat;
+            // wind the position back one as it's gone too far
+            nPosition--;
+        }
+        if(bDebugPrinting)print("next token is: "+token);
+        // if something has gone wrong/we hit an unexpected character then we will have a null in here, otherwise it'll have whatever the token is straight symbol tokens for seperators, start/end of array/object are returned earlier
+        return token;
+    }
+}

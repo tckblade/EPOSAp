@@ -1,0 +1,133 @@
+/*************************************************************************************************
+***  Version 1.3 - fixed matchname not working with the checking for previous key being off the end of the file
+***  Version 1.2 - added checking to see whether the previous key was off the end of the file - SG 27/06/2013
+***  Version 1.1 - added bMatchName flag to insist on correct name on key - BG 05/03/2013
+*************************************************************************************************/
+
+local bDebugPrinting = false;
+
+local function SCRIPTNUMBER_FROM_TKEYVALUE(v){return(v / 1000000);}
+local function SCRIPTVALUE_FROM_TKEYVALUE(v){return(v % 1000000);}
+local function TKEYVALUE_FROMSCRIPTNUMBERVALUE(n, m){return(n * 1000000 + m % 1000000);}
+
+
+function CheckForKey(szKeyName,nFile,nKeyType,nReqFlag=0,nValue=0,nNumber=0,bMatchName=false)
+{
+    local nFoundKeyNum = ICR_GetLocalUserData(szKeyName);
+    local bDebugPrinting = ICR_GetLocalUserData("bDebugPrinting");
+	
+	if (bDebugPrinting)print ("local setting "+szKeyName+" was "+nFoundKeyNum);
+        
+	if(nFoundKeyNum)	//if there's one set
+	{
+		if (bDebugPrinting)print ("checking key "+nFoundKeyNum);
+        // how big is the file we're checking
+        local nSizeOfFileToCheck = ICR_GetFileSize(nFile);
+        // somewhere to store the key information
+        local tKey = {KEYTYPE = 0, VALUE = 0, FLAG = 0, NAME = ""};
+        // if the key we're checking isn't off the end of the file
+        if (nFoundKeyNum <= nSizeOfFileToCheck)
+        {
+            tKey = ICR_GetPGMData(nFile,nFoundKeyNum);	        // grab the key
+        }
+ 
+		if (bDebugPrinting)print ("key is "+tKey.KEYTYPE+","+tKey.VALUE+","+tKey.FLAG);
+		if(tKey.KEYTYPE != nKeyType)		// if it doesn't do what we want
+		{
+			nFoundKeyNum = 0;							// pretend there wasn't one set
+            if (bDebugPrinting)print ("script key appears to have been changed");
+		}
+        else if(nKeyType == 110 && SCRIPTNUMBER_FROM_TKEYVALUE(tKey.VALUE) != nNumber)  //if it's a script key check the number and if it's the wrong one
+        {
+            nFoundKeyNum = 0;   //pretend there wasn't one already set
+        }
+		if(bMatchName && tKey.NAME != szKeyName)
+		{
+            nFoundKeyNum = 0;   //pretend there wasn't one already set
+		}
+	}
+	
+	if(!nFoundKeyNum)
+	{
+		// oh teh noes! either we've not been run before or some muppet has deleted our key
+		local nKeyNum = 1;
+		local tNextKey = ICR_GetPGMData(nFile,nKeyNum++);
+        local nValueToCheck = nValue;
+		while(!nFoundKeyNum && tNextKey)	//while we haven't set nScriptKeyNum to anything and we've not run out of status keys
+		{	
+			if (bDebugPrinting)print("key "+(nKeyNum-1)+" type "+tNextKey.KEYTYPE+" VALUE "+tNextKey.VALUE);
+			
+            do  //once, make sure the while is false
+            {
+                // is the key type what we're looking for?
+                if(tNextKey.KEYTYPE != nKeyType)
+                {
+                    if (bDebugPrinting)print("wrong keytype");
+                    break;
+                }	
+                // are the required flags set?
+                if((tNextKey.FLAG | 0x8000) ^ (0x8000 | nReqFlag))   
+                {
+                    if (bDebugPrinting)print("required flags not set");
+                    break;
+                }
+                
+                if(nKeyType == 110) 
+                {   // if it's a script key then the value to check against the key is the number and value mashed together
+                    nValueToCheck = TKEYVALUE_FROMSCRIPTNUMBERVALUE(nNumber,nValue)
+                }
+                // is the value (or number&value mashed if it's a script key) what it should be?
+                if(tNextKey.VALUE != nValueToCheck)
+                {
+                    if (bDebugPrinting)print("value doesn't match");
+                    break;
+                }
+				//do we need to check the name?
+				if(bMatchName && tNextKey.NAME != szKeyName)
+				{
+                    if (bDebugPrinting)print("name doesn't match");
+                    break;
+				}
+            
+				
+                // if all those things are as we want then that's what we're looking for, set that to be the key we want to press
+                nFoundKeyNum = nKeyNum-1;	
+                ICR_SetLocalUserData(szKeyName,nFoundKeyNum);	//save that for later
+                if (bDebugPrinting)print("Key found at record "+(nKeyNum-1));
+                
+			} while(false) // end of the do once this needs to be FALSE
+			tNextKey = ICR_GetPGMData(nFile,nKeyNum++);	// get the next key
+		}
+		if(!nFoundKeyNum)	// if we didn't find one
+		{
+			nKeyNum = ICR_GetFileSize(nFile);	// start at the end of the status key file
+			tNextKey = ICR_GetPGMData(nFile,nKeyNum--);
+			while(!nFoundKeyNum && tNextKey)	//while we haven't set nScriptKeyNum to anything and we've not run out of status keys
+			{
+				if(tNextKey.KEYTYPE == 0)	// is the key empty?
+				{
+					nFoundKeyNum = nKeyNum+1;	// if it is then that's what we're looking for, set that to be the key we want to press
+					ICR_SetLocalUserData(szKeyName,nFoundKeyNum);	//save that for later
+					
+					tNextKey.KEYTYPE = nKeyType;
+                    if (nKeyType == 110)
+                    {
+                        tNextKey.VALUE = TKEYVALUE_FROMSCRIPTNUMBERVALUE(nNumber, nValue);	//if it's a script key then it should have an number and a value that need to be mashed together
+                    }
+                    else
+                    {
+                        tNextKey.VALUE = nValue;
+                    }
+					tNextKey.NAME = szKeyName;	//give it a sensible name
+                    tNextKey.FLAG = nReqFlag;   //set the flags to what we asked for
+					ICR_SetPGMData(nFile,nKeyNum+1,tNextKey);	// stick it back in the status key file
+					ICR_JournalLine("Script Key created at key "+(nKeyNum+1),0, 0, nFile, nFoundKeyNum, 0);
+					if (bDebugPrinting)print("key created at record "+(nKeyNum+1));
+					if (bDebugPrinting)print("key "+(nKeyNum+1)+" type "+tNextKey.KEYTYPE+" VALUE "+tNextKey.VALUE);
+				}
+				tNextKey = ICR_GetPGMData(nFile,nKeyNum--);	// get the next key
+			}
+		}
+	}
+    return nFoundKeyNum;
+}

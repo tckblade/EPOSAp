@@ -1,0 +1,48 @@
+ICRTouch v70.13 START: 31/03 - 09:30            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (09:30)                   
+SALE ID: 1000105                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 31 MARCH 2021     09:30 000105        
+1     TOBACCO                      £1.25       
+                                                
+                        1 No                    
+      TOTAL                   §D£1.25§d      
+      CREDIT CARD                  £1.25       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £1.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000105                     
+ TOUCHPOINT CLOSED DOWN: 31/03 - 09:31          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 31/03 - 14:29            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (14:30)                   
+SALE ID: 1000106                                
+H. ALTUN          REG               ID#1        
+WEDNESDAY 31 MARCH 2021     14:30 000106        
+1     APPLE FUJI                   £2.69       
+      CANCEL                      £-2.69       
+SALE FINALISED, ID: 1000106                     
+ TOUCHPOINT CLOSED DOWN: 31/03 - 15:53          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 31/03 - 16:27            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (17:05)                   
+TECHNICIAN CODE USED                            
+MODE CHANGE, PROGRAM 4 MODE (17:05)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+MODE CHANGE, REG MODE (17:05)                   
+ICRTouch v70.13 START: 31/03 - 18:54            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        

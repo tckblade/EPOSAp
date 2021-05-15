@@ -1,0 +1,6 @@
+ICRTouch v70.13 START: 14/04 - 00:27            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (00:27)                   
+ TOUCHPOINT CLOSED DOWN: 14/04 - 00:28          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

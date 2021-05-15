@@ -1,0 +1,63 @@
+ICRTouch v70.13 START: 24/04 - 21:16            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (21:16)                   
+SALE ID: 1000142                                
+H. ALTUN          REG               ID#1        
+SATURDAY 24 APRIL 2021      21:16 000142        
+1     DAIRY / BAKERY             £125.00       
+1     MISC                         £1.25       
+                                                
+                        2 No                    
+      TOTAL               §D£126.25§d        
+      CREDIT CARD                £126.25       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)       £126.25   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000142                     
+SALE ID: 1000143                                
+H. ALTUN          REG               ID#1        
+SATURDAY 24 APRIL 2021      21:17 000143        
+1     SOFT DRINKS                 £12.58       
+                                                
+                        1 No                    
+      TOTAL                 §D£12.58§d       
+      CASH                       £452.00       
+      §DCHANGE§d               £439.42       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)        £12.58   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000143                     
+SALE ID: 1000144                                
+H. ALTUN          REG               ID#1        
+SATURDAY 24 APRIL 2021      21:17 000144        
+25    GROCERY                      £1.25       
+      Error Corr                                
+-1    GROCERY                     £-0.05       
+      CANCEL                      £-1.20       
+SALE FINALISED, ID: 1000144                     
+SALE ID: 1000145                                
+H. ALTUN          REG               ID#1        
+SATURDAY 24 APRIL 2021      21:18 000145        
+1     GROCERY                   £4500.87       
+      Error Corr                                
+-1    GROCERY                  £-4500.87       
+                                                
+                        0 No                    
+      TOTAL                   §D£0.00§d      
+      CASH                         £0.00       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000145                     
+ TOUCHPOINT CLOSED DOWN: 24/04 - 21:18          
+ ******  TOUCHPOINT CLOSED DOWN  *******        

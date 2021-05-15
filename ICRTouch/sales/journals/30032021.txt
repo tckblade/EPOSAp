@@ -1,0 +1,41 @@
+SALE ID: 1000103                                
+H. ALTUN          REG               ID#1        
+TUESDAY 30 MARCH 2021       13:47 000103        
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+      Error Corr                                
+-1    KP ORIGINAL SALTED P        £-0.69       
+      Error Corr                                
+-1    KP ORIGINAL SALTED P        £-0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+                                                
+                        1 No                    
+      TOTAL                   §D£0.69§d      
+      CASH                         £0.69       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £0.69   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000103                     
+SALE ID: 1000104                                
+H. ALTUN          REG               ID#1        
+TUESDAY 30 MARCH 2021       13:47 000104        
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+1     KP ORIGINAL SALTED P         £0.69       
+                                                
+                        3 No                    
+      TOTAL                   §D£2.07§d      
+      CREDIT CARD                  £2.07       
+      CASHBACK                    £50.00       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £2.07   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000104                     

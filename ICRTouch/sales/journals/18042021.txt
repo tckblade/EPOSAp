@@ -1,0 +1,80 @@
+ICRTouch v70.13 START: 18/04 - 02:54            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (02:54)                   
+SALE ID: 1000131                                
+H. ALTUN          REG               ID#1        
+SUNDAY 18 APRIL 2021        02:55 000131        
+5     GROCERY                      £1.25       
+5     GROCERY                      £6.25       
+      SUBTOTAL                     £7.50       
+                                                
+                        10 No                   
+      TOTAL                   §D£7.50§d      
+      CASH                         £7.50       
+                                                
+   RATE                      NET     TAX        
+T2 Zero Rated (0%)         £7.50   £0.00      
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000131                     
+ TOUCHPOINT CLOSED DOWN: 18/04 - 02:57          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/04 - 03:00            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:00)                   
+ TOUCHPOINT CLOSED DOWN: 18/04 - 03:00          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/04 - 03:00            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:01)                   
+ TOUCHPOINT CLOSED DOWN: 18/04 - 03:01          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/04 - 03:03            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:03)                   
+ TOUCHPOINT CLOSED DOWN: 18/04 - 03:03          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/04 - 03:04            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (03:04)                   
+SALE ID: 1000132                                
+CLERK 2           REG               ID#1        
+SUNDAY 18 APRIL 2021        03:05 000132        
+1     GROCERY                      £0.25       
+      CANCEL                      £-0.25       
+SALE FINALISED, ID: 1000132                     
+SALE ID: 1000133                                
+CLERK 2           REG               ID#1        
+SUNDAY 18 APRIL 2021        03:05 000133        
+1     GROCERY                      £0.56       
+      Error Corr                                
+-1    GROCERY                     £-0.56       
+                                                
+                        0 No                    
+      TOTAL                   §D£0.00§d      
+      CASH                         £0.00       
+                                                
+==============================================  
+            §DCOVERS 1§d                      
+==============================================  
+SALE FINALISED, ID: 1000133                     
+ TOUCHPOINT CLOSED DOWN: 18/04 - 03:08          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
+ICRTouch v70.13 START: 18/04 - 23:44            
+Boxes32.exe                                     
+F9969E456302396133D757C3F2F21BB277BF08DD        
+MODE CHANGE, REG MODE (23:44)                   
+MODE CHANGE, PROGRAM 4 MODE (23:46)             
+**Import Product Groups                         
+CHANGED FILES:                                  
+ Product Group Header                           
+ Product Group Item                             
+ TOUCHPOINT CLOSED DOWN: 18/04 - 23:48          
+ ******  TOUCHPOINT CLOSED DOWN  *******        
